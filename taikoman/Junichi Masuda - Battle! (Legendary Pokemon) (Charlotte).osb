@@ -1,0 +1,6804 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"SB\approachcircle.png",0,0
+ M,0,0,,200,400
+ F,0,0,,0,1
+ S,0,0,,0.51
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\taikobigcircle.png",0,0
+ M,0,0,,200,400
+ F,0,0,,0,1
+ S,0,0,,0.48
+ C,0,0,,211,211,211
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\approachcircle.png",0,0
+ M,0,0,,280,400
+ F,0,0,,0,1
+ S,0,0,,0.51
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\taikobigcircle.png",0,0
+ M,0,0,,280,400
+ F,0,0,,0,1
+ S,0,0,,0.48
+ C,0,0,,211,211,211
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\approachcircle.png",0,0
+ M,0,0,,360,400
+ F,0,0,,0,1
+ S,0,0,,0.51
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\taikobigcircle.png",0,0
+ M,0,0,,360,400
+ F,0,0,,0,1
+ S,0,0,,0.48
+ C,0,0,,211,211,211
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\approachcircle.png",0,0
+ M,0,0,,440,400
+ F,0,0,,0,1
+ S,0,0,,0.51
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\taikobigcircle.png",0,0
+ M,0,0,,440,400
+ F,0,0,,0,1
+ S,0,0,,0.48
+ C,0,0,,211,211,211
+ F,0,351327,,1,0
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,1227,2427,200
+ MY,0,1227,2427,-640,400
+ F,0,2427,,1,0
+ S,0,2427,,0.456
+ C,0,2427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,1227,2427,200
+ MY,0,1227,2427,-640,400
+ F,0,2427,,1,0
+ S,0,2427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,1227,2427,440
+ MY,0,1227,2427,-640,400
+ F,0,2427,,1,0
+ S,0,2427,,0.456
+ C,0,2427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,1227,2427,440
+ MY,0,1227,2427,-640,400
+ F,0,2427,,1,0
+ S,0,2427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,1572,2772,360
+ MY,0,1572,2772,-640,400
+ F,0,2772,,1,0
+ S,0,2772,,0.456
+ C,0,2772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,1572,2772,360
+ MY,0,1572,2772,-640,400
+ F,0,2772,,1,0
+ S,0,2772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,1917,3117,280
+ MY,0,1917,3117,-640,400
+ F,0,3117,,1,0
+ S,0,3117,,0.456
+ C,0,3117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,1917,3117,280
+ MY,0,1917,3117,-640,400
+ F,0,3117,,1,0
+ S,0,3117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,2262,3462,360
+ MY,0,2262,3462,-640,400
+ F,0,3462,,1,0
+ S,0,3462,,0.456
+ C,0,3462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,2262,3462,360
+ MY,0,2262,3462,-640,400
+ F,0,3462,,1,0
+ S,0,3462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,2434,3634,280
+ MY,0,2434,3634,-640,400
+ F,0,3634,,1,0
+ S,0,3634,,0.456
+ C,0,3634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,2434,3634,280
+ MY,0,2434,3634,-640,400
+ F,0,3634,,1,0
+ S,0,3634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,2607,3807,360
+ MY,0,2607,3807,-640,400
+ F,0,3807,,1,0
+ S,0,3807,,0.456
+ C,0,3807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,2607,3807,360
+ MY,0,2607,3807,-640,400
+ F,0,3807,,1,0
+ S,0,3807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,2951,4151,280
+ MY,0,2951,4151,-640,400
+ F,0,4151,,1,0
+ S,0,4151,,0.456
+ C,0,4151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,2951,4151,280
+ MY,0,2951,4151,-640,400
+ F,0,4151,,1,0
+ S,0,4151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,3066,4266,360
+ MY,0,3066,4266,-640,400
+ F,0,4266,,1,0
+ S,0,4266,,0.456
+ C,0,4266,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,3066,4266,360
+ MY,0,3066,4266,-640,400
+ F,0,4266,,1,0
+ S,0,4266,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,3181,4381,280
+ MY,0,3181,4381,-640,400
+ F,0,4381,,1,0
+ S,0,4381,,0.456
+ C,0,4381,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,3181,4381,280
+ MY,0,3181,4381,-640,400
+ F,0,4381,,1,0
+ S,0,4381,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,3296,4496,200
+ MY,0,3296,4496,-640,400
+ F,0,4496,,1,0
+ S,0,4496,,0.456
+ C,0,4496,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,3296,4496,200
+ MY,0,3296,4496,-640,400
+ F,0,4496,,1,0
+ S,0,4496,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,3641,4841,440
+ MY,0,3641,4841,-640,400
+ F,0,4841,,1,0
+ S,0,4841,,0.456
+ C,0,4841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,3641,4841,440
+ MY,0,3641,4841,-640,400
+ F,0,4841,,1,0
+ S,0,4841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,3986,5186,360
+ MY,0,3986,5186,-640,400
+ F,0,5186,,1,0
+ S,0,5186,,0.456
+ C,0,5186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,3986,5186,360
+ MY,0,3986,5186,-640,400
+ F,0,5186,,1,0
+ S,0,5186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,4331,5531,280
+ MY,0,4331,5531,-640,400
+ F,0,5531,,1,0
+ S,0,5531,,0.456
+ C,0,5531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,4331,5531,280
+ MY,0,4331,5531,-640,400
+ F,0,5531,,1,0
+ S,0,5531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,4676,5876,360
+ MY,0,4676,5876,-640,400
+ F,0,5876,,1,0
+ S,0,5876,,0.456
+ C,0,5876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,4676,5876,360
+ MY,0,4676,5876,-640,400
+ F,0,5876,,1,0
+ S,0,5876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,5020,6220,280
+ MY,0,5020,6220,-640,400
+ F,0,6220,,1,0
+ S,0,6220,,0.456
+ C,0,6220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,5020,6220,280
+ MY,0,5020,6220,-640,400
+ F,0,6220,,1,0
+ S,0,6220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,5193,6393,360
+ MY,0,5193,6393,-640,400
+ F,0,6393,,1,0
+ S,0,6393,,0.456
+ C,0,6393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,5193,6393,360
+ MY,0,5193,6393,-640,400
+ F,0,6393,,1,0
+ S,0,6393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,5365,6565,440
+ MY,0,5365,6565,-640,400
+ F,0,6565,,1,0
+ S,0,6565,,0.456
+ C,0,6565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,5365,6565,440
+ MY,0,5365,6565,-640,400
+ F,0,6565,,1,0
+ S,0,6565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,5710,6910,360
+ MY,0,5710,6910,-640,400
+ F,0,6910,,1,0
+ S,0,6910,,0.456
+ C,0,6910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,5710,6910,360
+ MY,0,5710,6910,-640,400
+ F,0,6910,,1,0
+ S,0,6910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,5882,7082,280
+ MY,0,5882,7082,-640,400
+ F,0,7082,,1,0
+ S,0,7082,,0.456
+ C,0,7082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,5882,7082,280
+ MY,0,5882,7082,-640,400
+ F,0,7082,,1,0
+ S,0,7082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,6055,7255,360
+ MY,0,6055,7255,-640,400
+ F,0,7255,,1,0
+ S,0,7255,,0.456
+ C,0,7255,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,6055,7255,360
+ MY,0,6055,7255,-640,400
+ F,0,7255,,1,0
+ S,0,7255,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,6400,7600,440
+ MY,0,6400,7600,-640,400
+ F,0,7600,,1,0
+ S,0,7600,,0.456
+ C,0,7600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,6400,7600,440
+ MY,0,6400,7600,-640,400
+ F,0,7600,,1,0
+ S,0,7600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,6572,7772,200
+ MY,0,6572,7772,-640,400
+ F,0,7772,,1,0
+ S,0,7772,,0.456
+ C,0,7772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,6572,7772,200
+ MY,0,6572,7772,-640,400
+ F,0,7772,,1,0
+ S,0,7772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,6745,7945,280
+ MY,0,6745,7945,-640,400
+ F,0,7945,,1,0
+ S,0,7945,,0.456
+ C,0,7945,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,6745,7945,280
+ MY,0,6745,7945,-640,400
+ F,0,7945,,1,0
+ S,0,7945,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7089,8289,360
+ MY,0,7089,8289,-640,400
+ F,0,8289,,1,0
+ S,0,8289,,0.456
+ C,0,8289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7089,8289,360
+ MY,0,7089,8289,-640,400
+ F,0,8289,,1,0
+ S,0,8289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7089,8289,280
+ MY,0,7089,8289,-640,400
+ F,0,8289,,1,0
+ S,0,8289,,0.456
+ C,0,8289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7089,8289,280
+ MY,0,7089,8289,-640,400
+ F,0,8289,,1,0
+ S,0,8289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7262,8462,280
+ MY,0,7262,8462,-640,400
+ F,0,8462,,1,0
+ S,0,8462,,0.456
+ C,0,8462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7262,8462,280
+ MY,0,7262,8462,-640,400
+ F,0,8462,,1,0
+ S,0,8462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7348,8548,360
+ MY,0,7348,8548,-640,400
+ F,0,8548,,1,0
+ S,0,8548,,0.456
+ C,0,8548,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7348,8548,360
+ MY,0,7348,8548,-640,400
+ F,0,8548,,1,0
+ S,0,8548,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7434,8634,280
+ MY,0,7434,8634,-640,400
+ F,0,8634,,1,0
+ S,0,8634,,0.456
+ C,0,8634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7434,8634,280
+ MY,0,7434,8634,-640,400
+ F,0,8634,,1,0
+ S,0,8634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7607,8807,360
+ MY,0,7607,8807,-640,400
+ F,0,8807,,1,0
+ S,0,8807,,0.456
+ C,0,8807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7607,8807,360
+ MY,0,7607,8807,-640,400
+ F,0,8807,,1,0
+ S,0,8807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7779,8979,440
+ MY,0,7779,8979,-640,400
+ F,0,8979,,1,0
+ S,0,8979,,0.456
+ C,0,8979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7779,8979,440
+ MY,0,7779,8979,-640,400
+ F,0,8979,,1,0
+ S,0,8979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,7951,9151,360
+ MY,0,7951,9151,-640,400
+ F,0,9151,,1,0
+ S,0,9151,,0.456
+ C,0,9151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,7951,9151,360
+ MY,0,7951,9151,-640,400
+ F,0,9151,,1,0
+ S,0,9151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,8124,9324,280
+ MY,0,8124,9324,-640,400
+ F,0,9324,,1,0
+ S,0,9324,,0.456
+ C,0,9324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,8124,9324,280
+ MY,0,8124,9324,-640,400
+ F,0,9324,,1,0
+ S,0,9324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,8469,9669,360
+ MY,0,8469,9669,-640,400
+ F,0,9669,,1,0
+ S,0,9669,,0.456
+ C,0,9669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,8469,9669,360
+ MY,0,8469,9669,-640,400
+ F,0,9669,,1,0
+ S,0,9669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,8641,9841,280
+ MY,0,8641,9841,-640,400
+ F,0,9841,,1,0
+ S,0,9841,,0.456
+ C,0,9841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,8641,9841,280
+ MY,0,8641,9841,-640,400
+ F,0,9841,,1,0
+ S,0,9841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,8727,9927,360
+ MY,0,8727,9927,-640,400
+ F,0,9927,,1,0
+ S,0,9927,,0.456
+ C,0,9927,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,8727,9927,360
+ MY,0,8727,9927,-640,400
+ F,0,9927,,1,0
+ S,0,9927,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,8814,10014,440
+ MY,0,8814,10014,-640,400
+ F,0,10014,,1,0
+ S,0,10014,,0.456
+ C,0,10014,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,8814,10014,440
+ MY,0,8814,10014,-640,400
+ F,0,10014,,1,0
+ S,0,10014,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,8986,10186,360
+ MY,0,8986,10186,-640,400
+ F,0,10186,,1,0
+ S,0,10186,,0.456
+ C,0,10186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,8986,10186,360
+ MY,0,8986,10186,-640,400
+ F,0,10186,,1,0
+ S,0,10186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,9158,10358,280
+ MY,0,9158,10358,-640,400
+ F,0,10358,,1,0
+ S,0,10358,,0.456
+ C,0,10358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,9158,10358,280
+ MY,0,9158,10358,-640,400
+ F,0,10358,,1,0
+ S,0,10358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,9245,10445,360
+ MY,0,9245,10445,-640,400
+ F,0,10445,,1,0
+ S,0,10445,,0.456
+ C,0,10445,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,9245,10445,360
+ MY,0,9245,10445,-640,400
+ F,0,10445,,1,0
+ S,0,10445,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,9331,10531,280
+ MY,0,9331,10531,-640,400
+ F,0,10531,,1,0
+ S,0,10531,,0.456
+ C,0,10531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,9331,10531,280
+ MY,0,9331,10531,-640,400
+ F,0,10531,,1,0
+ S,0,10531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,9503,10703,200
+ MY,0,9503,10703,-640,400
+ F,0,10703,,1,0
+ S,0,10703,,0.456
+ C,0,10703,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,9503,10703,200
+ MY,0,9503,10703,-640,400
+ F,0,10703,,1,0
+ S,0,10703,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,9676,10876,280
+ MY,0,9676,10876,-640,400
+ F,0,10876,,1,0
+ S,0,10876,,0.456
+ C,0,10876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,9676,10876,280
+ MY,0,9676,10876,-640,400
+ F,0,10876,,1,0
+ S,0,10876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,9848,11048,360
+ MY,0,9848,11048,-640,400
+ F,0,11048,,1,0
+ S,0,11048,,0.456
+ C,0,11048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,9848,11048,360
+ MY,0,9848,11048,-640,400
+ F,0,11048,,1,0
+ S,0,11048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10020,11220,280
+ MY,0,10020,11220,-640,400
+ F,0,11220,,1,0
+ S,0,11220,,0.456
+ C,0,11220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10020,11220,280
+ MY,0,10020,11220,-640,400
+ F,0,11220,,1,0
+ S,0,11220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10107,11307,360
+ MY,0,10107,11307,-640,400
+ F,0,11307,,1,0
+ S,0,11307,,0.456
+ C,0,11307,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10107,11307,360
+ MY,0,10107,11307,-640,400
+ F,0,11307,,1,0
+ S,0,11307,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10193,11393,440
+ MY,0,10193,11393,-640,400
+ F,0,11393,,1,0
+ S,0,11393,,0.456
+ C,0,11393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10193,11393,440
+ MY,0,10193,11393,-640,400
+ F,0,11393,,1,0
+ S,0,11393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10365,11565,360
+ MY,0,10365,11565,-640,400
+ F,0,11565,,1,0
+ S,0,11565,,0.456
+ C,0,11565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10365,11565,360
+ MY,0,10365,11565,-640,400
+ F,0,11565,,1,0
+ S,0,11565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10538,11738,440
+ MY,0,10538,11738,-640,400
+ F,0,11738,,1,0
+ S,0,11738,,0.456
+ C,0,11738,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10538,11738,440
+ MY,0,10538,11738,-640,400
+ F,0,11738,,1,0
+ S,0,11738,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10624,11824,360
+ MY,0,10624,11824,-640,400
+ F,0,11824,,1,0
+ S,0,11824,,0.456
+ C,0,11824,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10624,11824,360
+ MY,0,10624,11824,-640,400
+ F,0,11824,,1,0
+ S,0,11824,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10796,11996,280
+ MY,0,10796,11996,-640,400
+ F,0,11996,,1,0
+ S,0,11996,,0.456
+ C,0,11996,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10796,11996,280
+ MY,0,10796,11996,-640,400
+ F,0,11996,,1,0
+ S,0,11996,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,10882,12082,200
+ MY,0,10882,12082,-640,400
+ F,0,12082,,1,0
+ S,0,12082,,0.456
+ C,0,12082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,10882,12082,200
+ MY,0,10882,12082,-640,400
+ F,0,12082,,1,0
+ S,0,12082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11055,12255,280
+ MY,0,11055,12255,-640,400
+ F,0,12255,,1,0
+ S,0,12255,,0.456
+ C,0,12255,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11055,12255,280
+ MY,0,11055,12255,-640,400
+ F,0,12255,,1,0
+ S,0,12255,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11227,12427,200
+ MY,0,11227,12427,-640,400
+ F,0,12427,,1,0
+ S,0,12427,,0.456
+ C,0,12427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11227,12427,200
+ MY,0,11227,12427,-640,400
+ F,0,12427,,1,0
+ S,0,12427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11314,12514,440
+ MY,0,11314,12514,-640,400
+ F,0,12514,,1,0
+ S,0,12514,,0.456
+ C,0,12514,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11314,12514,440
+ MY,0,11314,12514,-640,400
+ F,0,12514,,1,0
+ S,0,12514,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11400,12600,360
+ MY,0,11400,12600,-640,400
+ F,0,12600,,1,0
+ S,0,12600,,0.456
+ C,0,12600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11400,12600,360
+ MY,0,11400,12600,-640,400
+ F,0,12600,,1,0
+ S,0,12600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11486,12686,440
+ MY,0,11486,12686,-640,400
+ F,0,12686,,1,0
+ S,0,12686,,0.456
+ C,0,12686,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11486,12686,440
+ MY,0,11486,12686,-640,400
+ F,0,12686,,1,0
+ S,0,12686,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11572,12772,360
+ MY,0,11572,12772,-640,400
+ F,0,12772,,1,0
+ S,0,12772,,0.456
+ C,0,12772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11572,12772,360
+ MY,0,11572,12772,-640,400
+ F,0,12772,,1,0
+ S,0,12772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11658,12858,280
+ MY,0,11658,12858,-640,400
+ F,0,12858,,1,0
+ S,0,12858,,0.456
+ C,0,12858,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11658,12858,280
+ MY,0,11658,12858,-640,400
+ F,0,12858,,1,0
+ S,0,12858,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11745,12945,200
+ MY,0,11745,12945,-640,400
+ F,0,12945,,1,0
+ S,0,12945,,0.456
+ C,0,12945,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11745,12945,200
+ MY,0,11745,12945,-640,400
+ F,0,12945,,1,0
+ S,0,12945,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,11917,13117,440
+ MY,0,11917,13117,-640,400
+ F,0,13117,,1,0
+ S,0,13117,,0.456
+ C,0,13117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,11917,13117,440
+ MY,0,11917,13117,-640,400
+ F,0,13117,,1,0
+ S,0,13117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,12089,13289,360
+ MY,0,12089,13289,-640,400
+ F,0,13289,,1,0
+ S,0,13289,,0.456
+ C,0,13289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,12089,13289,360
+ MY,0,12089,13289,-640,400
+ F,0,13289,,1,0
+ S,0,13289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,12262,13462,440
+ MY,0,12262,13462,-640,400
+ F,0,13462,,1,0
+ S,0,13462,,0.456
+ C,0,13462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,12262,13462,440
+ MY,0,12262,13462,-640,400
+ F,0,13462,,1,0
+ S,0,13462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,12607,13807,360
+ MY,0,12607,13807,-640,400
+ F,0,13807,,1,0
+ S,0,13807,,0.456
+ C,0,13807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,12607,13807,360
+ MY,0,12607,13807,-640,400
+ F,0,13807,,1,0
+ S,0,13807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,12607,13807,280
+ MY,0,12607,13807,-640,400
+ F,0,13807,,1,0
+ S,0,13807,,0.456
+ C,0,13807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,12607,13807,280
+ MY,0,12607,13807,-640,400
+ F,0,13807,,1,0
+ S,0,13807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,12951,14151,280
+ MY,0,12951,14151,-640,400
+ F,0,14151,,1,0
+ S,0,14151,,0.456
+ C,0,14151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,12951,14151,280
+ MY,0,12951,14151,-640,400
+ F,0,14151,,1,0
+ S,0,14151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13038,14238,360
+ MY,0,13038,14238,-640,400
+ F,0,14238,,1,0
+ S,0,14238,,0.456
+ C,0,14238,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13038,14238,360
+ MY,0,13038,14238,-640,400
+ F,0,14238,,1,0
+ S,0,14238,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13124,14324,440
+ MY,0,13124,14324,-640,400
+ F,0,14324,,1,0
+ S,0,14324,,0.456
+ C,0,14324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13124,14324,440
+ MY,0,13124,14324,-640,400
+ F,0,14324,,1,0
+ S,0,14324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13296,14496,360
+ MY,0,13296,14496,-640,400
+ F,0,14496,,1,0
+ S,0,14496,,0.456
+ C,0,14496,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13296,14496,360
+ MY,0,13296,14496,-640,400
+ F,0,14496,,1,0
+ S,0,14496,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13469,14669,280
+ MY,0,13469,14669,-640,400
+ F,0,14669,,1,0
+ S,0,14669,,0.456
+ C,0,14669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13469,14669,280
+ MY,0,13469,14669,-640,400
+ F,0,14669,,1,0
+ S,0,14669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13555,14755,360
+ MY,0,13555,14755,-640,400
+ F,0,14755,,1,0
+ S,0,14755,,0.456
+ C,0,14755,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13555,14755,360
+ MY,0,13555,14755,-640,400
+ F,0,14755,,1,0
+ S,0,14755,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13641,14841,440
+ MY,0,13641,14841,-640,400
+ F,0,14841,,1,0
+ S,0,14841,,0.456
+ C,0,14841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13641,14841,440
+ MY,0,13641,14841,-640,400
+ F,0,14841,,1,0
+ S,0,14841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13814,15014,360
+ MY,0,13814,15014,-640,400
+ F,0,15014,,1,0
+ S,0,15014,,0.456
+ C,0,15014,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13814,15014,360
+ MY,0,13814,15014,-640,400
+ F,0,15014,,1,0
+ S,0,15014,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,13986,15186,280
+ MY,0,13986,15186,-640,400
+ F,0,15186,,1,0
+ S,0,15186,,0.456
+ C,0,15186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,13986,15186,280
+ MY,0,13986,15186,-640,400
+ F,0,15186,,1,0
+ S,0,15186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14072,15272,360
+ MY,0,14072,15272,-640,400
+ F,0,15272,,1,0
+ S,0,15272,,0.456
+ C,0,15272,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14072,15272,360
+ MY,0,14072,15272,-640,400
+ F,0,15272,,1,0
+ S,0,15272,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14158,15358,440
+ MY,0,14158,15358,-640,400
+ F,0,15358,,1,0
+ S,0,15358,,0.456
+ C,0,15358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14158,15358,440
+ MY,0,14158,15358,-640,400
+ F,0,15358,,1,0
+ S,0,15358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14331,15531,360
+ MY,0,14331,15531,-640,400
+ F,0,15531,,1,0
+ S,0,15531,,0.456
+ C,0,15531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14331,15531,360
+ MY,0,14331,15531,-640,400
+ F,0,15531,,1,0
+ S,0,15531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14417,15617,280
+ MY,0,14417,15617,-640,400
+ F,0,15617,,1,0
+ S,0,15617,,0.456
+ C,0,15617,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14417,15617,280
+ MY,0,14417,15617,-640,400
+ F,0,15617,,1,0
+ S,0,15617,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14503,15703,200
+ MY,0,14503,15703,-640,400
+ F,0,15703,,1,0
+ S,0,15703,,0.456
+ C,0,15703,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14503,15703,200
+ MY,0,14503,15703,-640,400
+ F,0,15703,,1,0
+ S,0,15703,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14589,15789,280
+ MY,0,14589,15789,-640,400
+ F,0,15789,,1,0
+ S,0,15789,,0.456
+ C,0,15789,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14589,15789,280
+ MY,0,14589,15789,-640,400
+ F,0,15789,,1,0
+ S,0,15789,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,14676,15876,200
+ MY,0,14676,15876,-640,400
+ F,0,15876,,1,0
+ S,0,15876,,0.456
+ C,0,15876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,14676,15876,200
+ MY,0,14676,15876,-640,400
+ F,0,15876,,1,0
+ S,0,15876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,15020,16220,440
+ MY,0,15020,16220,-640,400
+ F,0,16220,,1,0
+ S,0,16220,,0.456
+ C,0,16220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,15020,16220,440
+ MY,0,15020,16220,-640,400
+ F,0,16220,,1,0
+ S,0,16220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,15365,16565,360
+ MY,0,15365,16565,-640,400
+ F,0,16565,,1,0
+ S,0,16565,,0.456
+ C,0,16565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,15365,16565,360
+ MY,0,15365,16565,-640,400
+ F,0,16565,,1,0
+ S,0,16565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,15365,16565,280
+ MY,0,15365,16565,-640,400
+ F,0,16565,,1,0
+ S,0,16565,,0.456
+ C,0,16565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,15365,16565,280
+ MY,0,15365,16565,-640,400
+ F,0,16565,,1,0
+ S,0,16565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,15710,16910,280
+ MY,0,15710,16910,-640,400
+ F,0,16910,,1,0
+ S,0,16910,,0.456
+ C,0,16910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,15710,16910,280
+ MY,0,15710,16910,-640,400
+ F,0,16910,,1,0
+ S,0,16910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,15796,16996,360
+ MY,0,15796,16996,-640,400
+ F,0,16996,,1,0
+ S,0,16996,,0.456
+ C,0,16996,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,15796,16996,360
+ MY,0,15796,16996,-640,400
+ F,0,16996,,1,0
+ S,0,16996,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,15882,17082,440
+ MY,0,15882,17082,-640,400
+ F,0,17082,,1,0
+ S,0,17082,,0.456
+ C,0,17082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,15882,17082,440
+ MY,0,15882,17082,-640,400
+ F,0,17082,,1,0
+ S,0,17082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16055,17255,360
+ MY,0,16055,17255,-640,400
+ F,0,17255,,1,0
+ S,0,17255,,0.456
+ C,0,17255,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16055,17255,360
+ MY,0,16055,17255,-640,400
+ F,0,17255,,1,0
+ S,0,17255,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16227,17427,280
+ MY,0,16227,17427,-640,400
+ F,0,17427,,1,0
+ S,0,17427,,0.456
+ C,0,17427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16227,17427,280
+ MY,0,16227,17427,-640,400
+ F,0,17427,,1,0
+ S,0,17427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16314,17514,360
+ MY,0,16314,17514,-640,400
+ F,0,17514,,1,0
+ S,0,17514,,0.456
+ C,0,17514,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16314,17514,360
+ MY,0,16314,17514,-640,400
+ F,0,17514,,1,0
+ S,0,17514,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16400,17600,440
+ MY,0,16400,17600,-640,400
+ F,0,17600,,1,0
+ S,0,17600,,0.456
+ C,0,17600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16400,17600,440
+ MY,0,16400,17600,-640,400
+ F,0,17600,,1,0
+ S,0,17600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16572,17772,360
+ MY,0,16572,17772,-640,400
+ F,0,17772,,1,0
+ S,0,17772,,0.456
+ C,0,17772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16572,17772,360
+ MY,0,16572,17772,-640,400
+ F,0,17772,,1,0
+ S,0,17772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16745,17945,280
+ MY,0,16745,17945,-640,400
+ F,0,17945,,1,0
+ S,0,17945,,0.456
+ C,0,17945,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16745,17945,280
+ MY,0,16745,17945,-640,400
+ F,0,17945,,1,0
+ S,0,17945,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16831,18031,360
+ MY,0,16831,18031,-640,400
+ F,0,18031,,1,0
+ S,0,18031,,0.456
+ C,0,18031,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16831,18031,360
+ MY,0,16831,18031,-640,400
+ F,0,18031,,1,0
+ S,0,18031,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,16917,18117,440
+ MY,0,16917,18117,-640,400
+ F,0,18117,,1,0
+ S,0,18117,,0.456
+ C,0,18117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,16917,18117,440
+ MY,0,16917,18117,-640,400
+ F,0,18117,,1,0
+ S,0,18117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,17003,18203,200
+ MY,0,17003,18203,-640,400
+ F,0,18203,,1,0
+ S,0,18203,,0.456
+ C,0,18203,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,17003,18203,200
+ MY,0,17003,18203,-640,400
+ F,0,18203,,1,0
+ S,0,18203,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,17089,18289,280
+ MY,0,17089,18289,-640,400
+ F,0,18289,,1,0
+ S,0,18289,,0.456
+ C,0,18289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,17089,18289,280
+ MY,0,17089,18289,-640,400
+ F,0,18289,,1,0
+ S,0,18289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,17262,18462,200
+ MY,0,17262,18462,-640,400
+ F,0,18462,,1,0
+ S,0,18462,,0.456
+ C,0,18462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,17262,18462,200
+ MY,0,17262,18462,-640,400
+ F,0,18462,,1,0
+ S,0,18462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,17348,18548,280
+ MY,0,17348,18548,-640,400
+ F,0,18548,,1,0
+ S,0,18548,,0.456
+ C,0,18548,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,17348,18548,280
+ MY,0,17348,18548,-640,400
+ F,0,18548,,1,0
+ S,0,18548,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,17434,18634,200
+ MY,0,17434,18634,-640,400
+ F,0,18634,,1,0
+ S,0,18634,,0.456
+ C,0,18634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,17434,18634,200
+ MY,0,17434,18634,-640,400
+ F,0,18634,,1,0
+ S,0,18634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,17779,18979,440
+ MY,0,17779,18979,-640,400
+ F,0,18979,,1,0
+ S,0,18979,,0.456
+ C,0,18979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,17779,18979,440
+ MY,0,17779,18979,-640,400
+ F,0,18979,,1,0
+ S,0,18979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18124,19324,360
+ MY,0,18124,19324,-640,400
+ F,0,19324,,1,0
+ S,0,19324,,0.456
+ C,0,19324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18124,19324,360
+ MY,0,18124,19324,-640,400
+ F,0,19324,,1,0
+ S,0,19324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18124,19324,280
+ MY,0,18124,19324,-640,400
+ F,0,19324,,1,0
+ S,0,19324,,0.456
+ C,0,19324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18124,19324,280
+ MY,0,18124,19324,-640,400
+ F,0,19324,,1,0
+ S,0,19324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18469,19669,280
+ MY,0,18469,19669,-640,400
+ F,0,19669,,1,0
+ S,0,19669,,0.456
+ C,0,19669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18469,19669,280
+ MY,0,18469,19669,-640,400
+ F,0,19669,,1,0
+ S,0,19669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18555,19755,360
+ MY,0,18555,19755,-640,400
+ F,0,19755,,1,0
+ S,0,19755,,0.456
+ C,0,19755,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18555,19755,360
+ MY,0,18555,19755,-640,400
+ F,0,19755,,1,0
+ S,0,19755,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18641,19841,440
+ MY,0,18641,19841,-640,400
+ F,0,19841,,1,0
+ S,0,19841,,0.456
+ C,0,19841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18641,19841,440
+ MY,0,18641,19841,-640,400
+ F,0,19841,,1,0
+ S,0,19841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18814,20014,360
+ MY,0,18814,20014,-640,400
+ F,0,20014,,1,0
+ S,0,20014,,0.456
+ C,0,20014,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18814,20014,360
+ MY,0,18814,20014,-640,400
+ F,0,20014,,1,0
+ S,0,20014,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,18986,20186,280
+ MY,0,18986,20186,-640,400
+ F,0,20186,,1,0
+ S,0,20186,,0.456
+ C,0,20186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,18986,20186,280
+ MY,0,18986,20186,-640,400
+ F,0,20186,,1,0
+ S,0,20186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19072,20272,360
+ MY,0,19072,20272,-640,400
+ F,0,20272,,1,0
+ S,0,20272,,0.456
+ C,0,20272,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19072,20272,360
+ MY,0,19072,20272,-640,400
+ F,0,20272,,1,0
+ S,0,20272,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19158,20358,440
+ MY,0,19158,20358,-640,400
+ F,0,20358,,1,0
+ S,0,20358,,0.456
+ C,0,20358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19158,20358,440
+ MY,0,19158,20358,-640,400
+ F,0,20358,,1,0
+ S,0,20358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19331,20531,360
+ MY,0,19331,20531,-640,400
+ F,0,20531,,1,0
+ S,0,20531,,0.456
+ C,0,20531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19331,20531,360
+ MY,0,19331,20531,-640,400
+ F,0,20531,,1,0
+ S,0,20531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19503,20703,280
+ MY,0,19503,20703,-640,400
+ F,0,20703,,1,0
+ S,0,20703,,0.456
+ C,0,20703,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19503,20703,280
+ MY,0,19503,20703,-640,400
+ F,0,20703,,1,0
+ S,0,20703,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19589,20789,360
+ MY,0,19589,20789,-640,400
+ F,0,20789,,1,0
+ S,0,20789,,0.456
+ C,0,20789,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19589,20789,360
+ MY,0,19589,20789,-640,400
+ F,0,20789,,1,0
+ S,0,20789,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19676,20876,440
+ MY,0,19676,20876,-640,400
+ F,0,20876,,1,0
+ S,0,20876,,0.456
+ C,0,20876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19676,20876,440
+ MY,0,19676,20876,-640,400
+ F,0,20876,,1,0
+ S,0,20876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19848,21048,200
+ MY,0,19848,21048,-640,400
+ F,0,21048,,1,0
+ S,0,21048,,0.456
+ C,0,21048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19848,21048,200
+ MY,0,19848,21048,-640,400
+ F,0,21048,,1,0
+ S,0,21048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,19934,21134,440
+ MY,0,19934,21134,-640,400
+ F,0,21134,,1,0
+ S,0,21134,,0.456
+ C,0,21134,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,19934,21134,440
+ MY,0,19934,21134,-640,400
+ F,0,21134,,1,0
+ S,0,21134,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,20020,21220,360
+ MY,0,20020,21220,-640,400
+ F,0,21220,,1,0
+ S,0,21220,,0.456
+ C,0,21220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,20020,21220,360
+ MY,0,20020,21220,-640,400
+ F,0,21220,,1,0
+ S,0,21220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,20107,21307,280
+ MY,0,20107,21307,-640,400
+ F,0,21307,,1,0
+ S,0,21307,,0.456
+ C,0,21307,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,20107,21307,280
+ MY,0,20107,21307,-640,400
+ F,0,21307,,1,0
+ S,0,21307,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,20193,21393,200
+ MY,0,20193,21393,-640,400
+ F,0,21393,,1,0
+ S,0,21393,,0.456
+ C,0,21393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,20193,21393,200
+ MY,0,20193,21393,-640,400
+ F,0,21393,,1,0
+ S,0,21393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,20538,21738,440
+ MY,0,20538,21738,-640,400
+ F,0,21738,,1,0
+ S,0,21738,,0.456
+ C,0,21738,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,20538,21738,440
+ MY,0,20538,21738,-640,400
+ F,0,21738,,1,0
+ S,0,21738,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,20882,22082,360
+ MY,0,20882,22082,-640,400
+ F,0,22082,,1,0
+ S,0,22082,,0.456
+ C,0,22082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,20882,22082,360
+ MY,0,20882,22082,-640,400
+ F,0,22082,,1,0
+ S,0,22082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,20882,22082,280
+ MY,0,20882,22082,-640,400
+ F,0,22082,,1,0
+ S,0,22082,,0.456
+ C,0,22082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,20882,22082,280
+ MY,0,20882,22082,-640,400
+ F,0,22082,,1,0
+ S,0,22082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21227,22427,280
+ MY,0,21227,22427,-640,400
+ F,0,22427,,1,0
+ S,0,22427,,0.456
+ C,0,22427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21227,22427,280
+ MY,0,21227,22427,-640,400
+ F,0,22427,,1,0
+ S,0,22427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21314,22514,360
+ MY,0,21314,22514,-640,400
+ F,0,22514,,1,0
+ S,0,22514,,0.456
+ C,0,22514,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21314,22514,360
+ MY,0,21314,22514,-640,400
+ F,0,22514,,1,0
+ S,0,22514,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21400,22600,440
+ MY,0,21400,22600,-640,400
+ F,0,22600,,1,0
+ S,0,22600,,0.456
+ C,0,22600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21400,22600,440
+ MY,0,21400,22600,-640,400
+ F,0,22600,,1,0
+ S,0,22600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21572,22772,360
+ MY,0,21572,22772,-640,400
+ F,0,22772,,1,0
+ S,0,22772,,0.456
+ C,0,22772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21572,22772,360
+ MY,0,21572,22772,-640,400
+ F,0,22772,,1,0
+ S,0,22772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21745,22945,440
+ MY,0,21745,22945,-640,400
+ F,0,22945,,1,0
+ S,0,22945,,0.456
+ C,0,22945,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21745,22945,440
+ MY,0,21745,22945,-640,400
+ F,0,22945,,1,0
+ S,0,22945,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21831,23031,200
+ MY,0,21831,23031,-640,400
+ F,0,23031,,1,0
+ S,0,23031,,0.456
+ C,0,23031,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21831,23031,200
+ MY,0,21831,23031,-640,400
+ F,0,23031,,1,0
+ S,0,23031,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,21917,23117,280
+ MY,0,21917,23117,-640,400
+ F,0,23117,,1,0
+ S,0,23117,,0.456
+ C,0,23117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,21917,23117,280
+ MY,0,21917,23117,-640,400
+ F,0,23117,,1,0
+ S,0,23117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22089,23289,360
+ MY,0,22089,23289,-640,400
+ F,0,23289,,1,0
+ S,0,23289,,0.456
+ C,0,23289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22089,23289,360
+ MY,0,22089,23289,-640,400
+ F,0,23289,,1,0
+ S,0,23289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22262,23462,280
+ MY,0,22262,23462,-640,400
+ F,0,23462,,1,0
+ S,0,23462,,0.456
+ C,0,23462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22262,23462,280
+ MY,0,22262,23462,-640,400
+ F,0,23462,,1,0
+ S,0,23462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22348,23548,360
+ MY,0,22348,23548,-640,400
+ F,0,23548,,1,0
+ S,0,23548,,0.456
+ C,0,23548,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22348,23548,360
+ MY,0,22348,23548,-640,400
+ F,0,23548,,1,0
+ S,0,23548,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22434,23634,440
+ MY,0,22434,23634,-640,400
+ F,0,23634,,1,0
+ S,0,23634,,0.456
+ C,0,23634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22434,23634,440
+ MY,0,22434,23634,-640,400
+ F,0,23634,,1,0
+ S,0,23634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22607,23807,360
+ MY,0,22607,23807,-640,400
+ F,0,23807,,1,0
+ S,0,23807,,0.456
+ C,0,23807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22607,23807,360
+ MY,0,22607,23807,-640,400
+ F,0,23807,,1,0
+ S,0,23807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22779,23979,280
+ MY,0,22779,23979,-640,400
+ F,0,23979,,1,0
+ S,0,23979,,0.456
+ C,0,23979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22779,23979,280
+ MY,0,22779,23979,-640,400
+ F,0,23979,,1,0
+ S,0,23979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,22951,24151,200
+ MY,0,22951,24151,-640,400
+ F,0,24151,,1,0
+ S,0,24151,,0.456
+ C,0,24151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,22951,24151,200
+ MY,0,22951,24151,-640,400
+ F,0,24151,,1,0
+ S,0,24151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23038,24238,440
+ MY,0,23038,24238,-640,400
+ F,0,24238,,1,0
+ S,0,24238,,0.456
+ C,0,24238,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23038,24238,440
+ MY,0,23038,24238,-640,400
+ F,0,24238,,1,0
+ S,0,24238,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23124,24324,200
+ MY,0,23124,24324,-640,400
+ F,0,24324,,1,0
+ S,0,24324,,0.456
+ C,0,24324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23124,24324,200
+ MY,0,23124,24324,-640,400
+ F,0,24324,,1,0
+ S,0,24324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23210,24410,440
+ MY,0,23210,24410,-640,400
+ F,0,24410,,1,0
+ S,0,24410,,0.456
+ C,0,24410,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23210,24410,440
+ MY,0,23210,24410,-640,400
+ F,0,24410,,1,0
+ S,0,24410,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23296,24496,360
+ MY,0,23296,24496,-640,400
+ F,0,24496,,1,0
+ S,0,24496,,0.456
+ C,0,24496,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23296,24496,360
+ MY,0,23296,24496,-640,400
+ F,0,24496,,1,0
+ S,0,24496,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23469,24669,440
+ MY,0,23469,24669,-640,400
+ F,0,24669,,1,0
+ S,0,24669,,0.456
+ C,0,24669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23469,24669,440
+ MY,0,23469,24669,-640,400
+ F,0,24669,,1,0
+ S,0,24669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23641,24841,360
+ MY,0,23641,24841,-640,400
+ F,0,24841,,1,0
+ S,0,24841,,0.456
+ C,0,24841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23641,24841,360
+ MY,0,23641,24841,-640,400
+ F,0,24841,,1,0
+ S,0,24841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23641,24841,280
+ MY,0,23641,24841,-640,400
+ F,0,24841,,1,0
+ S,0,24841,,0.456
+ C,0,24841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23641,24841,280
+ MY,0,23641,24841,-640,400
+ F,0,24841,,1,0
+ S,0,24841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,23986,25186,280
+ MY,0,23986,25186,-640,400
+ F,0,25186,,1,0
+ S,0,25186,,0.456
+ C,0,25186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,23986,25186,280
+ MY,0,23986,25186,-640,400
+ F,0,25186,,1,0
+ S,0,25186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24072,25272,360
+ MY,0,24072,25272,-640,400
+ F,0,25272,,1,0
+ S,0,25272,,0.456
+ C,0,25272,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24072,25272,360
+ MY,0,24072,25272,-640,400
+ F,0,25272,,1,0
+ S,0,25272,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24158,25358,440
+ MY,0,24158,25358,-640,400
+ F,0,25358,,1,0
+ S,0,25358,,0.456
+ C,0,25358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24158,25358,440
+ MY,0,24158,25358,-640,400
+ F,0,25358,,1,0
+ S,0,25358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24331,25531,360
+ MY,0,24331,25531,-640,400
+ F,0,25531,,1,0
+ S,0,25531,,0.456
+ C,0,25531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24331,25531,360
+ MY,0,24331,25531,-640,400
+ F,0,25531,,1,0
+ S,0,25531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24503,25703,280
+ MY,0,24503,25703,-640,400
+ F,0,25703,,1,0
+ S,0,25703,,0.456
+ C,0,25703,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24503,25703,280
+ MY,0,24503,25703,-640,400
+ F,0,25703,,1,0
+ S,0,25703,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24589,25789,360
+ MY,0,24589,25789,-640,400
+ F,0,25789,,1,0
+ S,0,25789,,0.456
+ C,0,25789,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24589,25789,360
+ MY,0,24589,25789,-640,400
+ F,0,25789,,1,0
+ S,0,25789,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24676,25876,440
+ MY,0,24676,25876,-640,400
+ F,0,25876,,1,0
+ S,0,25876,,0.456
+ C,0,25876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24676,25876,440
+ MY,0,24676,25876,-640,400
+ F,0,25876,,1,0
+ S,0,25876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,24848,26048,360
+ MY,0,24848,26048,-640,400
+ F,0,26048,,1,0
+ S,0,26048,,0.456
+ C,0,26048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,24848,26048,360
+ MY,0,24848,26048,-640,400
+ F,0,26048,,1,0
+ S,0,26048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25020,26220,280
+ MY,0,25020,26220,-640,400
+ F,0,26220,,1,0
+ S,0,26220,,0.456
+ C,0,26220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25020,26220,280
+ MY,0,25020,26220,-640,400
+ F,0,26220,,1,0
+ S,0,26220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25107,26307,360
+ MY,0,25107,26307,-640,400
+ F,0,26307,,1,0
+ S,0,26307,,0.456
+ C,0,26307,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25107,26307,360
+ MY,0,25107,26307,-640,400
+ F,0,26307,,1,0
+ S,0,26307,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25193,26393,440
+ MY,0,25193,26393,-640,400
+ F,0,26393,,1,0
+ S,0,26393,,0.456
+ C,0,26393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25193,26393,440
+ MY,0,25193,26393,-640,400
+ F,0,26393,,1,0
+ S,0,26393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25279,26479,360
+ MY,0,25279,26479,-640,400
+ F,0,26479,,1,0
+ S,0,26479,,0.456
+ C,0,26479,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25279,26479,360
+ MY,0,25279,26479,-640,400
+ F,0,26479,,1,0
+ S,0,26479,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25365,26565,280
+ MY,0,25365,26565,-640,400
+ F,0,26565,,1,0
+ S,0,26565,,0.456
+ C,0,26565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25365,26565,280
+ MY,0,25365,26565,-640,400
+ F,0,26565,,1,0
+ S,0,26565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25451,26651,360
+ MY,0,25451,26651,-640,400
+ F,0,26651,,1,0
+ S,0,26651,,0.456
+ C,0,26651,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25451,26651,360
+ MY,0,25451,26651,-640,400
+ F,0,26651,,1,0
+ S,0,26651,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25538,26738,440
+ MY,0,25538,26738,-640,400
+ F,0,26738,,1,0
+ S,0,26738,,0.456
+ C,0,26738,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25538,26738,440
+ MY,0,25538,26738,-640,400
+ F,0,26738,,1,0
+ S,0,26738,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25624,26824,360
+ MY,0,25624,26824,-640,400
+ F,0,26824,,1,0
+ S,0,26824,,0.456
+ C,0,26824,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25624,26824,360
+ MY,0,25624,26824,-640,400
+ F,0,26824,,1,0
+ S,0,26824,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,25710,26910,280
+ MY,0,25710,26910,-640,400
+ F,0,26910,,1,0
+ S,0,26910,,0.456
+ C,0,26910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,25710,26910,280
+ MY,0,25710,26910,-640,400
+ F,0,26910,,1,0
+ S,0,26910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,26055,27255,200
+ MY,0,26055,27255,-640,400
+ F,0,27255,,1,0
+ S,0,27255,,0.456
+ C,0,27255,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,26055,27255,200
+ MY,0,26055,27255,-640,400
+ F,0,27255,,1,0
+ S,0,27255,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,26400,27600,360
+ MY,0,26400,27600,-640,400
+ F,0,27600,,1,0
+ S,0,27600,,0.456
+ C,0,27600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,26400,27600,360
+ MY,0,26400,27600,-640,400
+ F,0,27600,,1,0
+ S,0,27600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,26400,27600,280
+ MY,0,26400,27600,-640,400
+ F,0,27600,,1,0
+ S,0,27600,,0.456
+ C,0,27600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,26400,27600,280
+ MY,0,26400,27600,-640,400
+ F,0,27600,,1,0
+ S,0,27600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,26745,27945,360
+ MY,0,26745,27945,-640,400
+ F,0,27945,,1,0
+ S,0,27945,,0.456
+ C,0,27945,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,26745,27945,360
+ MY,0,26745,27945,-640,400
+ F,0,27945,,1,0
+ S,0,27945,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,26831,28031,280
+ MY,0,26831,28031,-640,400
+ F,0,28031,,1,0
+ S,0,28031,,0.456
+ C,0,28031,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,26831,28031,280
+ MY,0,26831,28031,-640,400
+ F,0,28031,,1,0
+ S,0,28031,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,26917,28117,200
+ MY,0,26917,28117,-640,400
+ F,0,28117,,1,0
+ S,0,28117,,0.456
+ C,0,28117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,26917,28117,200
+ MY,0,26917,28117,-640,400
+ F,0,28117,,1,0
+ S,0,28117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27089,28289,280
+ MY,0,27089,28289,-640,400
+ F,0,28289,,1,0
+ S,0,28289,,0.456
+ C,0,28289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27089,28289,280
+ MY,0,27089,28289,-640,400
+ F,0,28289,,1,0
+ S,0,28289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27262,28462,200
+ MY,0,27262,28462,-640,400
+ F,0,28462,,1,0
+ S,0,28462,,0.456
+ C,0,28462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27262,28462,200
+ MY,0,27262,28462,-640,400
+ F,0,28462,,1,0
+ S,0,28462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27348,28548,440
+ MY,0,27348,28548,-640,400
+ F,0,28548,,1,0
+ S,0,28548,,0.456
+ C,0,28548,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27348,28548,440
+ MY,0,27348,28548,-640,400
+ F,0,28548,,1,0
+ S,0,28548,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27434,28634,360
+ MY,0,27434,28634,-640,400
+ F,0,28634,,1,0
+ S,0,28634,,0.456
+ C,0,28634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27434,28634,360
+ MY,0,27434,28634,-640,400
+ F,0,28634,,1,0
+ S,0,28634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27607,28807,280
+ MY,0,27607,28807,-640,400
+ F,0,28807,,1,0
+ S,0,28807,,0.456
+ C,0,28807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27607,28807,280
+ MY,0,27607,28807,-640,400
+ F,0,28807,,1,0
+ S,0,28807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27779,28979,360
+ MY,0,27779,28979,-640,400
+ F,0,28979,,1,0
+ S,0,28979,,0.456
+ C,0,28979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27779,28979,360
+ MY,0,27779,28979,-640,400
+ F,0,28979,,1,0
+ S,0,28979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27865,29065,280
+ MY,0,27865,29065,-640,400
+ F,0,29065,,1,0
+ S,0,29065,,0.456
+ C,0,29065,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27865,29065,280
+ MY,0,27865,29065,-640,400
+ F,0,29065,,1,0
+ S,0,29065,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,27951,29151,200
+ MY,0,27951,29151,-640,400
+ F,0,29151,,1,0
+ S,0,29151,,0.456
+ C,0,29151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,27951,29151,200
+ MY,0,27951,29151,-640,400
+ F,0,29151,,1,0
+ S,0,29151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28038,29238,280
+ MY,0,28038,29238,-640,400
+ F,0,29238,,1,0
+ S,0,29238,,0.456
+ C,0,29238,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28038,29238,280
+ MY,0,28038,29238,-640,400
+ F,0,29238,,1,0
+ S,0,29238,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28124,29324,200
+ MY,0,28124,29324,-640,400
+ F,0,29324,,1,0
+ S,0,29324,,0.456
+ C,0,29324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28124,29324,200
+ MY,0,28124,29324,-640,400
+ F,0,29324,,1,0
+ S,0,29324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28210,29410,440
+ MY,0,28210,29410,-640,400
+ F,0,29410,,1,0
+ S,0,29410,,0.456
+ C,0,29410,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28210,29410,440
+ MY,0,28210,29410,-640,400
+ F,0,29410,,1,0
+ S,0,29410,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28296,29496,360
+ MY,0,28296,29496,-640,400
+ F,0,29496,,1,0
+ S,0,29496,,0.456
+ C,0,29496,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28296,29496,360
+ MY,0,28296,29496,-640,400
+ F,0,29496,,1,0
+ S,0,29496,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28382,29582,280
+ MY,0,28382,29582,-640,400
+ F,0,29582,,1,0
+ S,0,29582,,0.456
+ C,0,29582,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28382,29582,280
+ MY,0,28382,29582,-640,400
+ F,0,29582,,1,0
+ S,0,29582,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28469,29669,200
+ MY,0,28469,29669,-640,400
+ F,0,29669,,1,0
+ S,0,29669,,0.456
+ C,0,29669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28469,29669,200
+ MY,0,28469,29669,-640,400
+ F,0,29669,,1,0
+ S,0,29669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,28814,30014,440
+ MY,0,28814,30014,-640,400
+ F,0,30014,,1,0
+ S,0,30014,,0.456
+ C,0,30014,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,28814,30014,440
+ MY,0,28814,30014,-640,400
+ F,0,30014,,1,0
+ S,0,30014,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,29158,30358,360
+ MY,0,29158,30358,-640,400
+ F,0,30358,,1,0
+ S,0,30358,,0.456
+ C,0,30358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,29158,30358,360
+ MY,0,29158,30358,-640,400
+ F,0,30358,,1,0
+ S,0,30358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,29158,30358,280
+ MY,0,29158,30358,-640,400
+ F,0,30358,,1,0
+ S,0,30358,,0.456
+ C,0,30358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,29158,30358,280
+ MY,0,29158,30358,-640,400
+ F,0,30358,,1,0
+ S,0,30358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,29503,30703,280
+ MY,0,29503,30703,-640,400
+ F,0,30703,,1,0
+ S,0,30703,,0.456
+ C,0,30703,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,29503,30703,280
+ MY,0,29503,30703,-640,400
+ F,0,30703,,1,0
+ S,0,30703,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,29589,30789,360
+ MY,0,29589,30789,-640,400
+ F,0,30789,,1,0
+ S,0,30789,,0.456
+ C,0,30789,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,29589,30789,360
+ MY,0,29589,30789,-640,400
+ F,0,30789,,1,0
+ S,0,30789,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,29676,30876,440
+ MY,0,29676,30876,-640,400
+ F,0,30876,,1,0
+ S,0,30876,,0.456
+ C,0,30876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,29676,30876,440
+ MY,0,29676,30876,-640,400
+ F,0,30876,,1,0
+ S,0,30876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,29848,31048,360
+ MY,0,29848,31048,-640,400
+ F,0,31048,,1,0
+ S,0,31048,,0.456
+ C,0,31048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,29848,31048,360
+ MY,0,29848,31048,-640,400
+ F,0,31048,,1,0
+ S,0,31048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30020,31220,280
+ MY,0,30020,31220,-640,400
+ F,0,31220,,1,0
+ S,0,31220,,0.456
+ C,0,31220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30020,31220,280
+ MY,0,30020,31220,-640,400
+ F,0,31220,,1,0
+ S,0,31220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30107,31307,360
+ MY,0,30107,31307,-640,400
+ F,0,31307,,1,0
+ S,0,31307,,0.456
+ C,0,31307,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30107,31307,360
+ MY,0,30107,31307,-640,400
+ F,0,31307,,1,0
+ S,0,31307,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30193,31393,440
+ MY,0,30193,31393,-640,400
+ F,0,31393,,1,0
+ S,0,31393,,0.456
+ C,0,31393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30193,31393,440
+ MY,0,30193,31393,-640,400
+ F,0,31393,,1,0
+ S,0,31393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30365,31565,360
+ MY,0,30365,31565,-640,400
+ F,0,31565,,1,0
+ S,0,31565,,0.456
+ C,0,31565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30365,31565,360
+ MY,0,30365,31565,-640,400
+ F,0,31565,,1,0
+ S,0,31565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30538,31738,280
+ MY,0,30538,31738,-640,400
+ F,0,31738,,1,0
+ S,0,31738,,0.456
+ C,0,31738,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30538,31738,280
+ MY,0,30538,31738,-640,400
+ F,0,31738,,1,0
+ S,0,31738,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30624,31824,360
+ MY,0,30624,31824,-640,400
+ F,0,31824,,1,0
+ S,0,31824,,0.456
+ C,0,31824,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30624,31824,360
+ MY,0,30624,31824,-640,400
+ F,0,31824,,1,0
+ S,0,31824,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30710,31910,440
+ MY,0,30710,31910,-640,400
+ F,0,31910,,1,0
+ S,0,31910,,0.456
+ C,0,31910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30710,31910,440
+ MY,0,30710,31910,-640,400
+ F,0,31910,,1,0
+ S,0,31910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30796,31996,360
+ MY,0,30796,31996,-640,400
+ F,0,31996,,1,0
+ S,0,31996,,0.456
+ C,0,31996,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30796,31996,360
+ MY,0,30796,31996,-640,400
+ F,0,31996,,1,0
+ S,0,31996,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30882,32082,280
+ MY,0,30882,32082,-640,400
+ F,0,32082,,1,0
+ S,0,32082,,0.456
+ C,0,32082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30882,32082,280
+ MY,0,30882,32082,-640,400
+ F,0,32082,,1,0
+ S,0,32082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,30969,32169,360
+ MY,0,30969,32169,-640,400
+ F,0,32169,,1,0
+ S,0,32169,,0.456
+ C,0,32169,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,30969,32169,360
+ MY,0,30969,32169,-640,400
+ F,0,32169,,1,0
+ S,0,32169,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,31055,32255,440
+ MY,0,31055,32255,-640,400
+ F,0,32255,,1,0
+ S,0,32255,,0.456
+ C,0,32255,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,31055,32255,440
+ MY,0,31055,32255,-640,400
+ F,0,32255,,1,0
+ S,0,32255,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,31141,32341,360
+ MY,0,31141,32341,-640,400
+ F,0,32341,,1,0
+ S,0,32341,,0.456
+ C,0,32341,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,31141,32341,360
+ MY,0,31141,32341,-640,400
+ F,0,32341,,1,0
+ S,0,32341,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,31227,32427,440
+ MY,0,31227,32427,-640,400
+ F,0,32427,,1,0
+ S,0,32427,,0.456
+ C,0,32427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,31227,32427,440
+ MY,0,31227,32427,-640,400
+ F,0,32427,,1,0
+ S,0,32427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,31572,32772,200
+ MY,0,31572,32772,-640,400
+ F,0,32772,,1,0
+ S,0,32772,,0.456
+ C,0,32772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,31572,32772,200
+ MY,0,31572,32772,-640,400
+ F,0,32772,,1,0
+ S,0,32772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,31917,33117,360
+ MY,0,31917,33117,-640,400
+ F,0,33117,,1,0
+ S,0,33117,,0.456
+ C,0,33117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,31917,33117,360
+ MY,0,31917,33117,-640,400
+ F,0,33117,,1,0
+ S,0,33117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,31917,33117,280
+ MY,0,31917,33117,-640,400
+ F,0,33117,,1,0
+ S,0,33117,,0.456
+ C,0,33117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,31917,33117,280
+ MY,0,31917,33117,-640,400
+ F,0,33117,,1,0
+ S,0,33117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32262,33462,360
+ MY,0,32262,33462,-640,400
+ F,0,33462,,1,0
+ S,0,33462,,0.456
+ C,0,33462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32262,33462,360
+ MY,0,32262,33462,-640,400
+ F,0,33462,,1,0
+ S,0,33462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32348,33548,280
+ MY,0,32348,33548,-640,400
+ F,0,33548,,1,0
+ S,0,33548,,0.456
+ C,0,33548,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32348,33548,280
+ MY,0,32348,33548,-640,400
+ F,0,33548,,1,0
+ S,0,33548,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32434,33634,200
+ MY,0,32434,33634,-640,400
+ F,0,33634,,1,0
+ S,0,33634,,0.456
+ C,0,33634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32434,33634,200
+ MY,0,32434,33634,-640,400
+ F,0,33634,,1,0
+ S,0,33634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32607,33807,280
+ MY,0,32607,33807,-640,400
+ F,0,33807,,1,0
+ S,0,33807,,0.456
+ C,0,33807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32607,33807,280
+ MY,0,32607,33807,-640,400
+ F,0,33807,,1,0
+ S,0,33807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32779,33979,200
+ MY,0,32779,33979,-640,400
+ F,0,33979,,1,0
+ S,0,33979,,0.456
+ C,0,33979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32779,33979,200
+ MY,0,32779,33979,-640,400
+ F,0,33979,,1,0
+ S,0,33979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32865,34065,440
+ MY,0,32865,34065,-640,400
+ F,0,34065,,1,0
+ S,0,34065,,0.456
+ C,0,34065,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32865,34065,440
+ MY,0,32865,34065,-640,400
+ F,0,34065,,1,0
+ S,0,34065,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,32951,34151,360
+ MY,0,32951,34151,-640,400
+ F,0,34151,,1,0
+ S,0,34151,,0.456
+ C,0,34151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,32951,34151,360
+ MY,0,32951,34151,-640,400
+ F,0,34151,,1,0
+ S,0,34151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33124,34324,280
+ MY,0,33124,34324,-640,400
+ F,0,34324,,1,0
+ S,0,34324,,0.456
+ C,0,34324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33124,34324,280
+ MY,0,33124,34324,-640,400
+ F,0,34324,,1,0
+ S,0,34324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33296,34496,360
+ MY,0,33296,34496,-640,400
+ F,0,34496,,1,0
+ S,0,34496,,0.456
+ C,0,34496,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33296,34496,360
+ MY,0,33296,34496,-640,400
+ F,0,34496,,1,0
+ S,0,34496,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33382,34582,280
+ MY,0,33382,34582,-640,400
+ F,0,34582,,1,0
+ S,0,34582,,0.456
+ C,0,34582,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33382,34582,280
+ MY,0,33382,34582,-640,400
+ F,0,34582,,1,0
+ S,0,34582,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33469,34669,200
+ MY,0,33469,34669,-640,400
+ F,0,34669,,1,0
+ S,0,34669,,0.456
+ C,0,34669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33469,34669,200
+ MY,0,33469,34669,-640,400
+ F,0,34669,,1,0
+ S,0,34669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33555,34755,280
+ MY,0,33555,34755,-640,400
+ F,0,34755,,1,0
+ S,0,34755,,0.456
+ C,0,34755,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33555,34755,280
+ MY,0,33555,34755,-640,400
+ F,0,34755,,1,0
+ S,0,34755,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33641,34841,200
+ MY,0,33641,34841,-640,400
+ F,0,34841,,1,0
+ S,0,34841,,0.456
+ C,0,34841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33641,34841,200
+ MY,0,33641,34841,-640,400
+ F,0,34841,,1,0
+ S,0,34841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33727,34927,280
+ MY,0,33727,34927,-640,400
+ F,0,34927,,1,0
+ S,0,34927,,0.456
+ C,0,34927,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33727,34927,280
+ MY,0,33727,34927,-640,400
+ F,0,34927,,1,0
+ S,0,34927,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33814,35014,360
+ MY,0,33814,35014,-640,400
+ F,0,35014,,1,0
+ S,0,35014,,0.456
+ C,0,35014,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33814,35014,360
+ MY,0,33814,35014,-640,400
+ F,0,35014,,1,0
+ S,0,35014,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33900,35100,280
+ MY,0,33900,35100,-640,400
+ F,0,35100,,1,0
+ S,0,35100,,0.456
+ C,0,35100,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33900,35100,280
+ MY,0,33900,35100,-640,400
+ F,0,35100,,1,0
+ S,0,35100,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,33986,35186,200
+ MY,0,33986,35186,-640,400
+ F,0,35186,,1,0
+ S,0,35186,,0.456
+ C,0,35186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,33986,35186,200
+ MY,0,33986,35186,-640,400
+ F,0,35186,,1,0
+ S,0,35186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,34331,35531,440
+ MY,0,34331,35531,-640,400
+ F,0,35531,,1,0
+ S,0,35531,,0.456
+ C,0,35531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,34331,35531,440
+ MY,0,34331,35531,-640,400
+ F,0,35531,,1,0
+ S,0,35531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,34676,35876,360
+ MY,0,34676,35876,-640,400
+ F,0,35876,,1,0
+ S,0,35876,,0.456
+ C,0,35876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,34676,35876,360
+ MY,0,34676,35876,-640,400
+ F,0,35876,,1,0
+ S,0,35876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,34762,35962,440
+ MY,0,34762,35962,-640,400
+ F,0,35962,,1,0
+ S,0,35962,,0.456
+ C,0,35962,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,34762,35962,440
+ MY,0,34762,35962,-640,400
+ F,0,35962,,1,0
+ S,0,35962,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,34934,36134,360
+ MY,0,34934,36134,-640,400
+ F,0,36134,,1,0
+ S,0,36134,,0.456
+ C,0,36134,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,34934,36134,360
+ MY,0,34934,36134,-640,400
+ F,0,36134,,1,0
+ S,0,36134,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35020,36220,440
+ MY,0,35020,36220,-640,400
+ F,0,36220,,1,0
+ S,0,36220,,0.456
+ C,0,36220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35020,36220,440
+ MY,0,35020,36220,-640,400
+ F,0,36220,,1,0
+ S,0,36220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35107,36307,200
+ MY,0,35107,36307,-640,400
+ F,0,36307,,1,0
+ S,0,36307,,0.456
+ C,0,36307,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35107,36307,200
+ MY,0,35107,36307,-640,400
+ F,0,36307,,1,0
+ S,0,36307,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35193,36393,280
+ MY,0,35193,36393,-640,400
+ F,0,36393,,1,0
+ S,0,36393,,0.456
+ C,0,36393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35193,36393,280
+ MY,0,35193,36393,-640,400
+ F,0,36393,,1,0
+ S,0,36393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35365,36565,200
+ MY,0,35365,36565,-640,400
+ F,0,36565,,1,0
+ S,0,36565,,0.456
+ C,0,36565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35365,36565,200
+ MY,0,35365,36565,-640,400
+ F,0,36565,,1,0
+ S,0,36565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35451,36651,280
+ MY,0,35451,36651,-640,400
+ F,0,36651,,1,0
+ S,0,36651,,0.456
+ C,0,36651,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35451,36651,280
+ MY,0,35451,36651,-640,400
+ F,0,36651,,1,0
+ S,0,36651,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35624,36824,200
+ MY,0,35624,36824,-640,400
+ F,0,36824,,1,0
+ S,0,36824,,0.456
+ C,0,36824,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35624,36824,200
+ MY,0,35624,36824,-640,400
+ F,0,36824,,1,0
+ S,0,36824,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35710,36910,440
+ MY,0,35710,36910,-640,400
+ F,0,36910,,1,0
+ S,0,36910,,0.456
+ C,0,36910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35710,36910,440
+ MY,0,35710,36910,-640,400
+ F,0,36910,,1,0
+ S,0,36910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35796,36996,200
+ MY,0,35796,36996,-640,400
+ F,0,36996,,1,0
+ S,0,36996,,0.456
+ C,0,36996,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35796,36996,200
+ MY,0,35796,36996,-640,400
+ F,0,36996,,1,0
+ S,0,36996,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,35882,37082,280
+ MY,0,35882,37082,-640,400
+ F,0,37082,,1,0
+ S,0,37082,,0.456
+ C,0,37082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,35882,37082,280
+ MY,0,35882,37082,-640,400
+ F,0,37082,,1,0
+ S,0,37082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36055,37255,360
+ MY,0,36055,37255,-640,400
+ F,0,37255,,1,0
+ S,0,37255,,0.456
+ C,0,37255,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36055,37255,360
+ MY,0,36055,37255,-640,400
+ F,0,37255,,1,0
+ S,0,37255,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36141,37341,440
+ MY,0,36141,37341,-640,400
+ F,0,37341,,1,0
+ S,0,37341,,0.456
+ C,0,37341,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36141,37341,440
+ MY,0,36141,37341,-640,400
+ F,0,37341,,1,0
+ S,0,37341,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36314,37514,200
+ MY,0,36314,37514,-640,400
+ F,0,37514,,1,0
+ S,0,37514,,0.456
+ C,0,37514,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36314,37514,200
+ MY,0,36314,37514,-640,400
+ F,0,37514,,1,0
+ S,0,37514,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36400,37600,440
+ MY,0,36400,37600,-640,400
+ F,0,37600,,1,0
+ S,0,37600,,0.456
+ C,0,37600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36400,37600,440
+ MY,0,36400,37600,-640,400
+ F,0,37600,,1,0
+ S,0,37600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36486,37686,360
+ MY,0,36486,37686,-640,400
+ F,0,37686,,1,0
+ S,0,37686,,0.456
+ C,0,37686,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36486,37686,360
+ MY,0,36486,37686,-640,400
+ F,0,37686,,1,0
+ S,0,37686,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36572,37772,440
+ MY,0,36572,37772,-640,400
+ F,0,37772,,1,0
+ S,0,37772,,0.456
+ C,0,37772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36572,37772,440
+ MY,0,36572,37772,-640,400
+ F,0,37772,,1,0
+ S,0,37772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36745,37945,360
+ MY,0,36745,37945,-640,400
+ F,0,37945,,1,0
+ S,0,37945,,0.456
+ C,0,37945,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36745,37945,360
+ MY,0,36745,37945,-640,400
+ F,0,37945,,1,0
+ S,0,37945,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,36831,38031,440
+ MY,0,36831,38031,-640,400
+ F,0,38031,,1,0
+ S,0,38031,,0.456
+ C,0,38031,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,36831,38031,440
+ MY,0,36831,38031,-640,400
+ F,0,38031,,1,0
+ S,0,38031,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37003,38203,200
+ MY,0,37003,38203,-640,400
+ F,0,38203,,1,0
+ S,0,38203,,0.456
+ C,0,38203,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37003,38203,200
+ MY,0,37003,38203,-640,400
+ F,0,38203,,1,0
+ S,0,38203,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37089,38289,280
+ MY,0,37089,38289,-640,400
+ F,0,38289,,1,0
+ S,0,38289,,0.456
+ C,0,38289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37089,38289,280
+ MY,0,37089,38289,-640,400
+ F,0,38289,,1,0
+ S,0,38289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37262,38462,200
+ MY,0,37262,38462,-640,400
+ F,0,38462,,1,0
+ S,0,38462,,0.456
+ C,0,38462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37262,38462,200
+ MY,0,37262,38462,-640,400
+ F,0,38462,,1,0
+ S,0,38462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37434,38634,280
+ MY,0,37434,38634,-640,400
+ F,0,38634,,1,0
+ S,0,38634,,0.456
+ C,0,38634,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37434,38634,280
+ MY,0,37434,38634,-640,400
+ F,0,38634,,1,0
+ S,0,38634,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37520,38720,200
+ MY,0,37520,38720,-640,400
+ F,0,38720,,1,0
+ S,0,38720,,0.456
+ C,0,38720,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37520,38720,200
+ MY,0,37520,38720,-640,400
+ F,0,38720,,1,0
+ S,0,38720,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37693,38893,280
+ MY,0,37693,38893,-640,400
+ F,0,38893,,1,0
+ S,0,38893,,0.456
+ C,0,38893,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37693,38893,280
+ MY,0,37693,38893,-640,400
+ F,0,38893,,1,0
+ S,0,38893,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37779,38979,200
+ MY,0,37779,38979,-640,400
+ F,0,38979,,1,0
+ S,0,38979,,0.456
+ C,0,38979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37779,38979,200
+ MY,0,37779,38979,-640,400
+ F,0,38979,,1,0
+ S,0,38979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37865,39065,280
+ MY,0,37865,39065,-640,400
+ F,0,39065,,1,0
+ S,0,39065,,0.456
+ C,0,39065,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37865,39065,280
+ MY,0,37865,39065,-640,400
+ F,0,39065,,1,0
+ S,0,39065,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,37951,39151,360
+ MY,0,37951,39151,-640,400
+ F,0,39151,,1,0
+ S,0,39151,,0.456
+ C,0,39151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,37951,39151,360
+ MY,0,37951,39151,-640,400
+ F,0,39151,,1,0
+ S,0,39151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38124,39324,440
+ MY,0,38124,39324,-640,400
+ F,0,39324,,1,0
+ S,0,39324,,0.456
+ C,0,39324,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38124,39324,440
+ MY,0,38124,39324,-640,400
+ F,0,39324,,1,0
+ S,0,39324,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38210,39410,360
+ MY,0,38210,39410,-640,400
+ F,0,39410,,1,0
+ S,0,39410,,0.456
+ C,0,39410,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38210,39410,360
+ MY,0,38210,39410,-640,400
+ F,0,39410,,1,0
+ S,0,39410,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38382,39582,440
+ MY,0,38382,39582,-640,400
+ F,0,39582,,1,0
+ S,0,39582,,0.456
+ C,0,39582,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38382,39582,440
+ MY,0,38382,39582,-640,400
+ F,0,39582,,1,0
+ S,0,39582,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38469,39669,360
+ MY,0,38469,39669,-640,400
+ F,0,39669,,1,0
+ S,0,39669,,0.456
+ C,0,39669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38469,39669,360
+ MY,0,38469,39669,-640,400
+ F,0,39669,,1,0
+ S,0,39669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38555,39755,280
+ MY,0,38555,39755,-640,400
+ F,0,39755,,1,0
+ S,0,39755,,0.456
+ C,0,39755,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38555,39755,280
+ MY,0,38555,39755,-640,400
+ F,0,39755,,1,0
+ S,0,39755,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38641,39841,200
+ MY,0,38641,39841,-640,400
+ F,0,39841,,1,0
+ S,0,39841,,0.456
+ C,0,39841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38641,39841,200
+ MY,0,38641,39841,-640,400
+ F,0,39841,,1,0
+ S,0,39841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38814,40014,440
+ MY,0,38814,40014,-640,400
+ F,0,40014,,1,0
+ S,0,40014,,0.456
+ C,0,40014,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38814,40014,440
+ MY,0,38814,40014,-640,400
+ F,0,40014,,1,0
+ S,0,40014,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,38900,40100,200
+ MY,0,38900,40100,-640,400
+ F,0,40100,,1,0
+ S,0,40100,,0.456
+ C,0,40100,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,38900,40100,200
+ MY,0,38900,40100,-640,400
+ F,0,40100,,1,0
+ S,0,40100,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39072,40272,440
+ MY,0,39072,40272,-640,400
+ F,0,40272,,1,0
+ S,0,40272,,0.456
+ C,0,40272,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39072,40272,440
+ MY,0,39072,40272,-640,400
+ F,0,40272,,1,0
+ S,0,40272,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39158,40358,360
+ MY,0,39158,40358,-640,400
+ F,0,40358,,1,0
+ S,0,40358,,0.456
+ C,0,40358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39158,40358,360
+ MY,0,39158,40358,-640,400
+ F,0,40358,,1,0
+ S,0,40358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39245,40445,440
+ MY,0,39245,40445,-640,400
+ F,0,40445,,1,0
+ S,0,40445,,0.456
+ C,0,40445,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39245,40445,440
+ MY,0,39245,40445,-640,400
+ F,0,40445,,1,0
+ S,0,40445,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39331,40531,200
+ MY,0,39331,40531,-640,400
+ F,0,40531,,1,0
+ S,0,40531,,0.456
+ C,0,40531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39331,40531,200
+ MY,0,39331,40531,-640,400
+ F,0,40531,,1,0
+ S,0,40531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39503,40703,280
+ MY,0,39503,40703,-640,400
+ F,0,40703,,1,0
+ S,0,40703,,0.456
+ C,0,40703,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39503,40703,280
+ MY,0,39503,40703,-640,400
+ F,0,40703,,1,0
+ S,0,40703,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39589,40789,200
+ MY,0,39589,40789,-640,400
+ F,0,40789,,1,0
+ S,0,40789,,0.456
+ C,0,40789,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39589,40789,200
+ MY,0,39589,40789,-640,400
+ F,0,40789,,1,0
+ S,0,40789,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39762,40962,440
+ MY,0,39762,40962,-640,400
+ F,0,40962,,1,0
+ S,0,40962,,0.456
+ C,0,40962,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39762,40962,440
+ MY,0,39762,40962,-640,400
+ F,0,40962,,1,0
+ S,0,40962,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,39848,41048,360
+ MY,0,39848,41048,-640,400
+ F,0,41048,,1,0
+ S,0,41048,,0.456
+ C,0,41048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,39848,41048,360
+ MY,0,39848,41048,-640,400
+ F,0,41048,,1,0
+ S,0,41048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40020,41220,440
+ MY,0,40020,41220,-640,400
+ F,0,41220,,1,0
+ S,0,41220,,0.456
+ C,0,41220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40020,41220,440
+ MY,0,40020,41220,-640,400
+ F,0,41220,,1,0
+ S,0,41220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40193,41393,360
+ MY,0,40193,41393,-640,400
+ F,0,41393,,1,0
+ S,0,41393,,0.456
+ C,0,41393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40193,41393,360
+ MY,0,40193,41393,-640,400
+ F,0,41393,,1,0
+ S,0,41393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40279,41479,440
+ MY,0,40279,41479,-640,400
+ F,0,41479,,1,0
+ S,0,41479,,0.456
+ C,0,41479,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40279,41479,440
+ MY,0,40279,41479,-640,400
+ F,0,41479,,1,0
+ S,0,41479,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40451,41651,200
+ MY,0,40451,41651,-640,400
+ F,0,41651,,1,0
+ S,0,41651,,0.456
+ C,0,41651,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40451,41651,200
+ MY,0,40451,41651,-640,400
+ F,0,41651,,1,0
+ S,0,41651,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40538,41738,280
+ MY,0,40538,41738,-640,400
+ F,0,41738,,1,0
+ S,0,41738,,0.456
+ C,0,41738,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40538,41738,280
+ MY,0,40538,41738,-640,400
+ F,0,41738,,1,0
+ S,0,41738,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40624,41824,360
+ MY,0,40624,41824,-640,400
+ F,0,41824,,1,0
+ S,0,41824,,0.456
+ C,0,41824,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40624,41824,360
+ MY,0,40624,41824,-640,400
+ F,0,41824,,1,0
+ S,0,41824,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40710,41910,440
+ MY,0,40710,41910,-640,400
+ F,0,41910,,1,0
+ S,0,41910,,0.456
+ C,0,41910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40710,41910,440
+ MY,0,40710,41910,-640,400
+ F,0,41910,,1,0
+ S,0,41910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40882,42082,200
+ MY,0,40882,42082,-640,400
+ F,0,42082,,1,0
+ S,0,42082,,0.456
+ C,0,42082,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40882,42082,200
+ MY,0,40882,42082,-640,400
+ F,0,42082,,1,0
+ S,0,42082,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,40969,42169,280
+ MY,0,40969,42169,-640,400
+ F,0,42169,,1,0
+ S,0,42169,,0.456
+ C,0,42169,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,40969,42169,280
+ MY,0,40969,42169,-640,400
+ F,0,42169,,1,0
+ S,0,42169,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41141,42341,200
+ MY,0,41141,42341,-640,400
+ F,0,42341,,1,0
+ S,0,42341,,0.456
+ C,0,42341,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41141,42341,200
+ MY,0,41141,42341,-640,400
+ F,0,42341,,1,0
+ S,0,42341,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41227,42427,280
+ MY,0,41227,42427,-640,400
+ F,0,42427,,1,0
+ S,0,42427,,0.456
+ C,0,42427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41227,42427,280
+ MY,0,41227,42427,-640,400
+ F,0,42427,,1,0
+ S,0,42427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41314,42514,200
+ MY,0,41314,42514,-640,400
+ F,0,42514,,1,0
+ S,0,42514,,0.456
+ C,0,42514,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41314,42514,200
+ MY,0,41314,42514,-640,400
+ F,0,42514,,1,0
+ S,0,42514,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41400,42600,440
+ MY,0,41400,42600,-640,400
+ F,0,42600,,1,0
+ S,0,42600,,0.456
+ C,0,42600,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41400,42600,440
+ MY,0,41400,42600,-640,400
+ F,0,42600,,1,0
+ S,0,42600,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41572,42772,200
+ MY,0,41572,42772,-640,400
+ F,0,42772,,1,0
+ S,0,42772,,0.456
+ C,0,42772,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41572,42772,200
+ MY,0,41572,42772,-640,400
+ F,0,42772,,1,0
+ S,0,42772,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41658,42858,280
+ MY,0,41658,42858,-640,400
+ F,0,42858,,1,0
+ S,0,42858,,0.456
+ C,0,42858,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41658,42858,280
+ MY,0,41658,42858,-640,400
+ F,0,42858,,1,0
+ S,0,42858,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41831,43031,200
+ MY,0,41831,43031,-640,400
+ F,0,43031,,1,0
+ S,0,43031,,0.456
+ C,0,43031,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41831,43031,200
+ MY,0,41831,43031,-640,400
+ F,0,43031,,1,0
+ S,0,43031,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,41917,43117,440
+ MY,0,41917,43117,-640,400
+ F,0,43117,,1,0
+ S,0,43117,,0.456
+ C,0,43117,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,41917,43117,440
+ MY,0,41917,43117,-640,400
+ F,0,43117,,1,0
+ S,0,43117,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42003,43203,200
+ MY,0,42003,43203,-640,400
+ F,0,43203,,1,0
+ S,0,43203,,0.456
+ C,0,43203,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42003,43203,200
+ MY,0,42003,43203,-640,400
+ F,0,43203,,1,0
+ S,0,43203,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42089,43289,280
+ MY,0,42089,43289,-640,400
+ F,0,43289,,1,0
+ S,0,43289,,0.456
+ C,0,43289,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42089,43289,280
+ MY,0,42089,43289,-640,400
+ F,0,43289,,1,0
+ S,0,43289,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42262,43462,360
+ MY,0,42262,43462,-640,400
+ F,0,43462,,1,0
+ S,0,43462,,0.456
+ C,0,43462,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42262,43462,360
+ MY,0,42262,43462,-640,400
+ F,0,43462,,1,0
+ S,0,43462,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42348,43548,440
+ MY,0,42348,43548,-640,400
+ F,0,43548,,1,0
+ S,0,43548,,0.456
+ C,0,43548,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42348,43548,440
+ MY,0,42348,43548,-640,400
+ F,0,43548,,1,0
+ S,0,43548,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42520,43720,200
+ MY,0,42520,43720,-640,400
+ F,0,43720,,1,0
+ S,0,43720,,0.456
+ C,0,43720,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42520,43720,200
+ MY,0,42520,43720,-640,400
+ F,0,43720,,1,0
+ S,0,43720,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42607,43807,280
+ MY,0,42607,43807,-640,400
+ F,0,43807,,1,0
+ S,0,43807,,0.456
+ C,0,43807,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42607,43807,280
+ MY,0,42607,43807,-640,400
+ F,0,43807,,1,0
+ S,0,43807,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42779,43979,200
+ MY,0,42779,43979,-640,400
+ F,0,43979,,1,0
+ S,0,43979,,0.456
+ C,0,43979,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42779,43979,200
+ MY,0,42779,43979,-640,400
+ F,0,43979,,1,0
+ S,0,43979,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,42951,44151,280
+ MY,0,42951,44151,-640,400
+ F,0,44151,,1,0
+ S,0,44151,,0.456
+ C,0,44151,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,42951,44151,280
+ MY,0,42951,44151,-640,400
+ F,0,44151,,1,0
+ S,0,44151,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43038,44238,200
+ MY,0,43038,44238,-640,400
+ F,0,44238,,1,0
+ S,0,44238,,0.456
+ C,0,44238,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43038,44238,200
+ MY,0,43038,44238,-640,400
+ F,0,44238,,1,0
+ S,0,44238,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43210,44410,440
+ MY,0,43210,44410,-640,400
+ F,0,44410,,1,0
+ S,0,44410,,0.456
+ C,0,44410,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43210,44410,440
+ MY,0,43210,44410,-640,400
+ F,0,44410,,1,0
+ S,0,44410,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43296,44496,200
+ MY,0,43296,44496,-640,400
+ F,0,44496,,1,0
+ S,0,44496,,0.456
+ C,0,44496,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43296,44496,200
+ MY,0,43296,44496,-640,400
+ F,0,44496,,1,0
+ S,0,44496,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43382,44582,280
+ MY,0,43382,44582,-640,400
+ F,0,44582,,1,0
+ S,0,44582,,0.456
+ C,0,44582,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43382,44582,280
+ MY,0,43382,44582,-640,400
+ F,0,44582,,1,0
+ S,0,44582,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43469,44669,200
+ MY,0,43469,44669,-640,400
+ F,0,44669,,1,0
+ S,0,44669,,0.456
+ C,0,44669,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43469,44669,200
+ MY,0,43469,44669,-640,400
+ F,0,44669,,1,0
+ S,0,44669,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43641,44841,440
+ MY,0,43641,44841,-640,400
+ F,0,44841,,1,0
+ S,0,44841,,0.456
+ C,0,44841,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43641,44841,440
+ MY,0,43641,44841,-640,400
+ F,0,44841,,1,0
+ S,0,44841,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43727,44927,360
+ MY,0,43727,44927,-640,400
+ F,0,44927,,1,0
+ S,0,44927,,0.456
+ C,0,44927,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43727,44927,360
+ MY,0,43727,44927,-640,400
+ F,0,44927,,1,0
+ S,0,44927,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43900,45100,440
+ MY,0,43900,45100,-640,400
+ F,0,45100,,1,0
+ S,0,45100,,0.456
+ C,0,45100,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43900,45100,440
+ MY,0,43900,45100,-640,400
+ F,0,45100,,1,0
+ S,0,45100,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,43986,45186,360
+ MY,0,43986,45186,-640,400
+ F,0,45186,,1,0
+ S,0,45186,,0.456
+ C,0,45186,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,43986,45186,360
+ MY,0,43986,45186,-640,400
+ F,0,45186,,1,0
+ S,0,45186,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44072,45272,280
+ MY,0,44072,45272,-640,400
+ F,0,45272,,1,0
+ S,0,45272,,0.456
+ C,0,45272,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44072,45272,280
+ MY,0,44072,45272,-640,400
+ F,0,45272,,1,0
+ S,0,45272,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44158,45358,200
+ MY,0,44158,45358,-640,400
+ F,0,45358,,1,0
+ S,0,45358,,0.456
+ C,0,45358,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44158,45358,200
+ MY,0,44158,45358,-640,400
+ F,0,45358,,1,0
+ S,0,45358,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44331,45531,280
+ MY,0,44331,45531,-640,400
+ F,0,45531,,1,0
+ S,0,45531,,0.456
+ C,0,45531,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44331,45531,280
+ MY,0,44331,45531,-640,400
+ F,0,45531,,1,0
+ S,0,45531,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44417,45617,200
+ MY,0,44417,45617,-640,400
+ F,0,45617,,1,0
+ S,0,45617,,0.456
+ C,0,45617,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44417,45617,200
+ MY,0,44417,45617,-640,400
+ F,0,45617,,1,0
+ S,0,45617,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44589,45789,280
+ MY,0,44589,45789,-640,400
+ F,0,45789,,1,0
+ S,0,45789,,0.456
+ C,0,45789,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44589,45789,280
+ MY,0,44589,45789,-640,400
+ F,0,45789,,1,0
+ S,0,45789,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44676,45876,200
+ MY,0,44676,45876,-640,400
+ F,0,45876,,1,0
+ S,0,45876,,0.456
+ C,0,45876,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44676,45876,200
+ MY,0,44676,45876,-640,400
+ F,0,45876,,1,0
+ S,0,45876,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44762,45962,440
+ MY,0,44762,45962,-640,400
+ F,0,45962,,1,0
+ S,0,45962,,0.456
+ C,0,45962,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44762,45962,440
+ MY,0,44762,45962,-640,400
+ F,0,45962,,1,0
+ S,0,45962,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,44848,46048,360
+ MY,0,44848,46048,-640,400
+ F,0,46048,,1,0
+ S,0,46048,,0.456
+ C,0,46048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,44848,46048,360
+ MY,0,44848,46048,-640,400
+ F,0,46048,,1,0
+ S,0,46048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45020,46220,280
+ MY,0,45020,46220,-640,400
+ F,0,46220,,1,0
+ S,0,46220,,0.456
+ C,0,46220,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45020,46220,280
+ MY,0,45020,46220,-640,400
+ F,0,46220,,1,0
+ S,0,46220,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45107,46307,200
+ MY,0,45107,46307,-640,400
+ F,0,46307,,1,0
+ S,0,46307,,0.456
+ C,0,46307,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45107,46307,200
+ MY,0,45107,46307,-640,400
+ F,0,46307,,1,0
+ S,0,46307,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45193,46393,280
+ MY,0,45193,46393,-640,400
+ F,0,46393,,1,0
+ S,0,46393,,0.456
+ C,0,46393,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45193,46393,280
+ MY,0,45193,46393,-640,400
+ F,0,46393,,1,0
+ S,0,46393,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45279,46479,360
+ MY,0,45279,46479,-640,400
+ F,0,46479,,1,0
+ S,0,46479,,0.456
+ C,0,46479,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45279,46479,360
+ MY,0,45279,46479,-640,400
+ F,0,46479,,1,0
+ S,0,46479,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45365,46565,440
+ MY,0,45365,46565,-640,400
+ F,0,46565,,1,0
+ S,0,46565,,0.456
+ C,0,46565,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45365,46565,440
+ MY,0,45365,46565,-640,400
+ F,0,46565,,1,0
+ S,0,46565,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45451,46651,200
+ MY,0,45451,46651,-640,400
+ F,0,46651,,1,0
+ S,0,46651,,0.456
+ C,0,46651,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45451,46651,200
+ MY,0,45451,46651,-640,400
+ F,0,46651,,1,0
+ S,0,46651,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45538,46738,280
+ MY,0,45538,46738,-640,400
+ F,0,46738,,1,0
+ S,0,46738,,0.456
+ C,0,46738,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45538,46738,280
+ MY,0,45538,46738,-640,400
+ F,0,46738,,1,0
+ S,0,46738,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45710,46910,360
+ MY,0,45710,46910,-640,400
+ F,0,46910,,1,0
+ S,0,46910,,0.456
+ C,0,46910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45710,46910,360
+ MY,0,45710,46910,-640,400
+ F,0,46910,,1,0
+ S,0,46910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,45710,46910,280
+ MY,0,45710,46910,-640,400
+ F,0,46910,,1,0
+ S,0,46910,,0.456
+ C,0,46910,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,45710,46910,280
+ MY,0,45710,46910,-640,400
+ F,0,46910,,1,0
+ S,0,46910,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,46075,47275,280
+ MY,0,46075,47275,-640,400
+ F,0,47275,,1,0
+ S,0,47275,,0.456
+ C,0,47275,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,46075,47275,280
+ MY,0,46075,47275,-640,400
+ F,0,47275,,1,0
+ S,0,47275,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,46441,47641,360
+ MY,0,46441,47641,-640,400
+ F,0,47641,,1,0
+ S,0,47641,,0.456
+ C,0,47641,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,46441,47641,360
+ MY,0,46441,47641,-640,400
+ F,0,47641,,1,0
+ S,0,47641,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,46807,48007,280
+ MY,0,46807,48007,-640,400
+ F,0,48007,,1,0
+ S,0,48007,,0.456
+ C,0,48007,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,46807,48007,280
+ MY,0,46807,48007,-640,400
+ F,0,48007,,1,0
+ S,0,48007,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,47173,48373,360
+ MY,0,47173,48373,-640,400
+ F,0,48373,,1,0
+ S,0,48373,,0.456
+ C,0,48373,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,47173,48373,360
+ MY,0,47173,48373,-640,400
+ F,0,48373,,1,0
+ S,0,48373,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,47548,48748,280
+ MY,0,47548,48748,-640,400
+ F,0,48748,,1,0
+ S,0,48748,,0.456
+ C,0,48748,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,47548,48748,280
+ MY,0,47548,48748,-640,400
+ F,0,48748,,1,0
+ S,0,48748,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,47735,48935,360
+ MY,0,47735,48935,-640,400
+ F,0,48935,,1,0
+ S,0,48935,,0.456
+ C,0,48935,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,47735,48935,360
+ MY,0,47735,48935,-640,400
+ F,0,48935,,1,0
+ S,0,48935,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,47923,49123,440
+ MY,0,47923,49123,-640,400
+ F,0,49123,,1,0
+ S,0,49123,,0.456
+ C,0,49123,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,47923,49123,440
+ MY,0,47923,49123,-640,400
+ F,0,49123,,1,0
+ S,0,49123,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,48298,49498,360
+ MY,0,48298,49498,-640,400
+ F,0,49498,,1,0
+ S,0,49498,,0.456
+ C,0,49498,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,48298,49498,360
+ MY,0,48298,49498,-640,400
+ F,0,49498,,1,0
+ S,0,49498,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,48673,49873,360
+ MY,0,48673,49873,-640,400
+ F,0,49873,,1,0
+ S,0,49873,,0.456
+ C,0,49873,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,48673,49873,360
+ MY,0,48673,49873,-640,400
+ F,0,49873,,1,0
+ S,0,49873,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,48673,49873,280
+ MY,0,48673,49873,-640,400
+ F,0,49873,,1,0
+ S,0,49873,,0.456
+ C,0,49873,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,48673,49873,280
+ MY,0,48673,49873,-640,400
+ F,0,49873,,1,0
+ S,0,49873,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,49075,50275,360
+ MY,0,49075,50275,-640,400
+ F,0,50275,,1,0
+ S,0,50275,,0.456
+ C,0,50275,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,49075,50275,360
+ MY,0,49075,50275,-640,400
+ F,0,50275,,1,0
+ S,0,50275,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,49277,50477,280
+ MY,0,49277,50477,-640,400
+ F,0,50477,,1,0
+ S,0,50477,,0.456
+ C,0,50477,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,49277,50477,280
+ MY,0,49277,50477,-640,400
+ F,0,50477,,1,0
+ S,0,50477,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,49478,50678,360
+ MY,0,49478,50678,-640,400
+ F,0,50678,,1,0
+ S,0,50678,,0.456
+ C,0,50678,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,49478,50678,360
+ MY,0,49478,50678,-640,400
+ F,0,50678,,1,0
+ S,0,50678,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,49881,51081,280
+ MY,0,49881,51081,-640,400
+ F,0,51081,,1,0
+ S,0,51081,,0.456
+ C,0,51081,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,49881,51081,280
+ MY,0,49881,51081,-640,400
+ F,0,51081,,1,0
+ S,0,51081,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,50283,51483,360
+ MY,0,50283,51483,-640,400
+ F,0,51483,,1,0
+ S,0,51483,,0.456
+ C,0,51483,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,50283,51483,360
+ MY,0,50283,51483,-640,400
+ F,0,51483,,1,0
+ S,0,51483,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,50491,51691,280
+ MY,0,50491,51691,-640,400
+ F,0,51691,,1,0
+ S,0,51691,,0.456
+ C,0,51691,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,50491,51691,280
+ MY,0,50491,51691,-640,400
+ F,0,51691,,1,0
+ S,0,51691,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,50699,51899,360
+ MY,0,50699,51899,-640,400
+ F,0,51899,,1,0
+ S,0,51899,,0.456
+ C,0,51899,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,50699,51899,360
+ MY,0,50699,51899,-640,400
+ F,0,51899,,1,0
+ S,0,51899,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,51116,52316,440
+ MY,0,51116,52316,-640,400
+ F,0,52316,,1,0
+ S,0,52316,,0.456
+ C,0,52316,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,51116,52316,440
+ MY,0,51116,52316,-640,400
+ F,0,52316,,1,0
+ S,0,52316,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,51324,52524,200
+ MY,0,51324,52524,-640,400
+ F,0,52524,,1,0
+ S,0,52524,,0.456
+ C,0,52524,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,51324,52524,200
+ MY,0,51324,52524,-640,400
+ F,0,52524,,1,0
+ S,0,52524,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,51533,52733,280
+ MY,0,51533,52733,-640,400
+ F,0,52733,,1,0
+ S,0,52733,,0.456
+ C,0,52733,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,51533,52733,280
+ MY,0,51533,52733,-640,400
+ F,0,52733,,1,0
+ S,0,52733,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,51949,53149,360
+ MY,0,51949,53149,-640,400
+ F,0,53149,,1,0
+ S,0,53149,,0.456
+ C,0,53149,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,51949,53149,360
+ MY,0,51949,53149,-640,400
+ F,0,53149,,1,0
+ S,0,53149,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,51949,53149,280
+ MY,0,51949,53149,-640,400
+ F,0,53149,,1,0
+ S,0,53149,,0.456
+ C,0,53149,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,51949,53149,280
+ MY,0,51949,53149,-640,400
+ F,0,53149,,1,0
+ S,0,53149,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,52371,53571,280
+ MY,0,52371,53571,-640,400
+ F,0,53571,,1,0
+ S,0,53571,,0.456
+ C,0,53571,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,52371,53571,280
+ MY,0,52371,53571,-640,400
+ F,0,53571,,1,0
+ S,0,53571,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,52688,53888,360
+ MY,0,52688,53888,-640,400
+ F,0,53888,,1,0
+ S,0,53888,,0.456
+ C,0,53888,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,52688,53888,360
+ MY,0,52688,53888,-640,400
+ F,0,53888,,1,0
+ S,0,53888,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,52794,53994,440
+ MY,0,52794,53994,-640,400
+ F,0,53994,,1,0
+ S,0,53994,,0.456
+ C,0,53994,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,52794,53994,440
+ MY,0,52794,53994,-640,400
+ F,0,53994,,1,0
+ S,0,53994,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,53216,54416,360
+ MY,0,53216,54416,-640,400
+ F,0,54416,,1,0
+ S,0,54416,,0.456
+ C,0,54416,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,53216,54416,360
+ MY,0,53216,54416,-640,400
+ F,0,54416,,1,0
+ S,0,54416,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,53639,54839,440
+ MY,0,53639,54839,-640,400
+ F,0,54839,,1,0
+ S,0,54839,,0.456
+ C,0,54839,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,53639,54839,440
+ MY,0,53639,54839,-640,400
+ F,0,54839,,1,0
+ S,0,54839,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,53835,55035,360
+ MY,0,53835,55035,-640,400
+ F,0,55035,,1,0
+ S,0,55035,,0.456
+ C,0,55035,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,53835,55035,360
+ MY,0,53835,55035,-640,400
+ F,0,55035,,1,0
+ S,0,55035,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,54031,55231,280
+ MY,0,54031,55231,-640,400
+ F,0,55231,,1,0
+ S,0,55231,,0.456
+ C,0,55231,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,54031,55231,280
+ MY,0,54031,55231,-640,400
+ F,0,55231,,1,0
+ S,0,55231,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,54227,55427,360
+ MY,0,54227,55427,-640,400
+ F,0,55427,,1,0
+ S,0,55427,,0.456
+ C,0,55427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,54227,55427,360
+ MY,0,54227,55427,-640,400
+ F,0,55427,,1,0
+ S,0,55427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,54423,55623,440
+ MY,0,54423,55623,-640,400
+ F,0,55623,,1,0
+ S,0,55623,,0.456
+ C,0,55623,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,54423,55623,440
+ MY,0,54423,55623,-640,400
+ F,0,55623,,1,0
+ S,0,55623,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,54815,56015,200
+ MY,0,54815,56015,-640,400
+ F,0,56015,,1,0
+ S,0,56015,,0.456
+ C,0,56015,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,54815,56015,200
+ MY,0,54815,56015,-640,400
+ F,0,56015,,1,0
+ S,0,56015,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,55207,56407,360
+ MY,0,55207,56407,-640,400
+ F,0,56407,,1,0
+ S,0,56407,,0.456
+ C,0,56407,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,55207,56407,360
+ MY,0,55207,56407,-640,400
+ F,0,56407,,1,0
+ S,0,56407,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,55207,56407,280
+ MY,0,55207,56407,-640,400
+ F,0,56407,,1,0
+ S,0,56407,,0.456
+ C,0,56407,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,55207,56407,280
+ MY,0,55207,56407,-640,400
+ F,0,56407,,1,0
+ S,0,56407,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,55577,56777,360
+ MY,0,55577,56777,-640,400
+ F,0,56777,,1,0
+ S,0,56777,,0.456
+ C,0,56777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,55577,56777,360
+ MY,0,55577,56777,-640,400
+ F,0,56777,,1,0
+ S,0,56777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,55855,57055,280
+ MY,0,55855,57055,-640,400
+ F,0,57055,,1,0
+ S,0,57055,,0.456
+ C,0,57055,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,55855,57055,280
+ MY,0,55855,57055,-640,400
+ F,0,57055,,1,0
+ S,0,57055,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,55947,57147,200
+ MY,0,55947,57147,-640,400
+ F,0,57147,,1,0
+ S,0,57147,,0.456
+ C,0,57147,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,55947,57147,200
+ MY,0,55947,57147,-640,400
+ F,0,57147,,1,0
+ S,0,57147,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,56318,57518,280
+ MY,0,56318,57518,-640,400
+ F,0,57518,,1,0
+ S,0,57518,,0.456
+ C,0,57518,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,56318,57518,280
+ MY,0,56318,57518,-640,400
+ F,0,57518,,1,0
+ S,0,57518,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,56688,57888,200
+ MY,0,56688,57888,-640,400
+ F,0,57888,,1,0
+ S,0,57888,,0.456
+ C,0,57888,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,56688,57888,200
+ MY,0,56688,57888,-640,400
+ F,0,57888,,1,0
+ S,0,57888,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,56861,58061,280
+ MY,0,56861,58061,-640,400
+ F,0,58061,,1,0
+ S,0,58061,,0.456
+ C,0,58061,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,56861,58061,280
+ MY,0,56861,58061,-640,400
+ F,0,58061,,1,0
+ S,0,58061,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,57034,58234,360
+ MY,0,57034,58234,-640,400
+ F,0,58234,,1,0
+ S,0,58234,,0.456
+ C,0,58234,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,57034,58234,360
+ MY,0,57034,58234,-640,400
+ F,0,58234,,1,0
+ S,0,58234,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,57208,58408,280
+ MY,0,57208,58408,-640,400
+ F,0,58408,,1,0
+ S,0,58408,,0.456
+ C,0,58408,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,57208,58408,280
+ MY,0,57208,58408,-640,400
+ F,0,58408,,1,0
+ S,0,58408,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,57381,58581,200
+ MY,0,57381,58581,-640,400
+ F,0,58581,,1,0
+ S,0,58581,,0.456
+ C,0,58581,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,57381,58581,200
+ MY,0,57381,58581,-640,400
+ F,0,58581,,1,0
+ S,0,58581,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,57728,58928,440
+ MY,0,57728,58928,-640,400
+ F,0,58928,,1,0
+ S,0,58928,,0.456
+ C,0,58928,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,57728,58928,440
+ MY,0,57728,58928,-640,400
+ F,0,58928,,1,0
+ S,0,58928,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,58075,59275,360
+ MY,0,58075,59275,-640,400
+ F,0,59275,,1,0
+ S,0,59275,,0.456
+ C,0,59275,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,58075,59275,360
+ MY,0,58075,59275,-640,400
+ F,0,59275,,1,0
+ S,0,59275,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,58075,59275,280
+ MY,0,58075,59275,-640,400
+ F,0,59275,,1,0
+ S,0,59275,,0.456
+ C,0,59275,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,58075,59275,280
+ MY,0,58075,59275,-640,400
+ F,0,59275,,1,0
+ S,0,59275,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,58402,59602,280
+ MY,0,58402,59602,-640,400
+ F,0,59602,,1,0
+ S,0,59602,,0.456
+ C,0,59602,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,58402,59602,280
+ MY,0,58402,59602,-640,400
+ F,0,59602,,1,0
+ S,0,59602,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,58648,59848,360
+ MY,0,58648,59848,-640,400
+ F,0,59848,,1,0
+ S,0,59848,,0.456
+ C,0,59848,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,58648,59848,360
+ MY,0,58648,59848,-640,400
+ F,0,59848,,1,0
+ S,0,59848,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,58730,59930,440
+ MY,0,58730,59930,-640,400
+ F,0,59930,,1,0
+ S,0,59930,,0.456
+ C,0,59930,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,58730,59930,440
+ MY,0,58730,59930,-640,400
+ F,0,59930,,1,0
+ S,0,59930,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,59058,60258,360
+ MY,0,59058,60258,-640,400
+ F,0,60258,,1,0
+ S,0,60258,,0.456
+ C,0,60258,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,59058,60258,360
+ MY,0,59058,60258,-640,400
+ F,0,60258,,1,0
+ S,0,60258,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,59386,60586,440
+ MY,0,59386,60586,-640,400
+ F,0,60586,,1,0
+ S,0,60586,,0.456
+ C,0,60586,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,59386,60586,440
+ MY,0,59386,60586,-640,400
+ F,0,60586,,1,0
+ S,0,60586,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,59550,60750,360
+ MY,0,59550,60750,-640,400
+ F,0,60750,,1,0
+ S,0,60750,,0.456
+ C,0,60750,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,59550,60750,360
+ MY,0,59550,60750,-640,400
+ F,0,60750,,1,0
+ S,0,60750,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,59714,60914,280
+ MY,0,59714,60914,-640,400
+ F,0,60914,,1,0
+ S,0,60914,,0.456
+ C,0,60914,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,59714,60914,280
+ MY,0,59714,60914,-640,400
+ F,0,60914,,1,0
+ S,0,60914,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,59878,61078,360
+ MY,0,59878,61078,-640,400
+ F,0,61078,,1,0
+ S,0,61078,,0.456
+ C,0,61078,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,59878,61078,360
+ MY,0,59878,61078,-640,400
+ F,0,61078,,1,0
+ S,0,61078,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,60042,61242,440
+ MY,0,60042,61242,-640,400
+ F,0,61242,,1,0
+ S,0,61242,,0.456
+ C,0,61242,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,60042,61242,440
+ MY,0,60042,61242,-640,400
+ F,0,61242,,1,0
+ S,0,61242,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,60370,61570,200
+ MY,0,60370,61570,-640,400
+ F,0,61570,,1,0
+ S,0,61570,,0.456
+ C,0,61570,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,60370,61570,200
+ MY,0,60370,61570,-640,400
+ F,0,61570,,1,0
+ S,0,61570,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,60697,61897,360
+ MY,0,60697,61897,-640,400
+ F,0,61897,,1,0
+ S,0,61897,,0.456
+ C,0,61897,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,60697,61897,360
+ MY,0,60697,61897,-640,400
+ F,0,61897,,1,0
+ S,0,61897,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,60697,61897,280
+ MY,0,60697,61897,-640,400
+ F,0,61897,,1,0
+ S,0,61897,,0.456
+ C,0,61897,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,60697,61897,280
+ MY,0,60697,61897,-640,400
+ F,0,61897,,1,0
+ S,0,61897,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,61000,62200,360
+ MY,0,61000,62200,-640,400
+ F,0,62200,,1,0
+ S,0,62200,,0.456
+ C,0,62200,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,61000,62200,360
+ MY,0,61000,62200,-640,400
+ F,0,62200,,1,0
+ S,0,62200,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,61227,62427,280
+ MY,0,61227,62427,-640,400
+ F,0,62427,,1,0
+ S,0,62427,,0.456
+ C,0,62427,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,61227,62427,280
+ MY,0,61227,62427,-640,400
+ F,0,62427,,1,0
+ S,0,62427,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,61303,62503,200
+ MY,0,61303,62503,-640,400
+ F,0,62503,,1,0
+ S,0,62503,,0.456
+ C,0,62503,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,61303,62503,200
+ MY,0,61303,62503,-640,400
+ F,0,62503,,1,0
+ S,0,62503,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,61606,62806,280
+ MY,0,61606,62806,-640,400
+ F,0,62806,,1,0
+ S,0,62806,,0.456
+ C,0,62806,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,61606,62806,280
+ MY,0,61606,62806,-640,400
+ F,0,62806,,1,0
+ S,0,62806,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,61909,63109,200
+ MY,0,61909,63109,-640,400
+ F,0,63109,,1,0
+ S,0,63109,,0.456
+ C,0,63109,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,61909,63109,200
+ MY,0,61909,63109,-640,400
+ F,0,63109,,1,0
+ S,0,63109,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,61984,63184,440
+ MY,0,61984,63184,-640,400
+ F,0,63184,,1,0
+ S,0,63184,,0.456
+ C,0,63184,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,61984,63184,440
+ MY,0,61984,63184,-640,400
+ F,0,63184,,1,0
+ S,0,63184,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62060,63260,360
+ MY,0,62060,63260,-640,400
+ F,0,63260,,1,0
+ S,0,63260,,0.456
+ C,0,63260,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62060,63260,360
+ MY,0,62060,63260,-640,400
+ F,0,63260,,1,0
+ S,0,63260,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62212,63412,440
+ MY,0,62212,63412,-640,400
+ F,0,63412,,1,0
+ S,0,63412,,0.456
+ C,0,63412,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62212,63412,440
+ MY,0,62212,63412,-640,400
+ F,0,63412,,1,0
+ S,0,63412,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62363,63563,360
+ MY,0,62363,63563,-640,400
+ F,0,63563,,1,0
+ S,0,63563,,0.456
+ C,0,63563,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62363,63563,360
+ MY,0,62363,63563,-640,400
+ F,0,63563,,1,0
+ S,0,63563,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62515,63715,440
+ MY,0,62515,63715,-640,400
+ F,0,63715,,1,0
+ S,0,63715,,0.456
+ C,0,63715,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62515,63715,440
+ MY,0,62515,63715,-640,400
+ F,0,63715,,1,0
+ S,0,63715,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62590,63790,360
+ MY,0,62590,63790,-640,400
+ F,0,63790,,1,0
+ S,0,63790,,0.456
+ C,0,63790,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62590,63790,360
+ MY,0,62590,63790,-640,400
+ F,0,63790,,1,0
+ S,0,63790,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62666,63866,440
+ MY,0,62666,63866,-640,400
+ F,0,63866,,1,0
+ S,0,63866,,0.456
+ C,0,63866,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62666,63866,440
+ MY,0,62666,63866,-640,400
+ F,0,63866,,1,0
+ S,0,63866,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62818,64018,200
+ MY,0,62818,64018,-640,400
+ F,0,64018,,1,0
+ S,0,64018,,0.456
+ C,0,64018,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62818,64018,200
+ MY,0,62818,64018,-640,400
+ F,0,64018,,1,0
+ S,0,64018,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,62969,64169,280
+ MY,0,62969,64169,-640,400
+ F,0,64169,,1,0
+ S,0,64169,,0.456
+ C,0,64169,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,62969,64169,280
+ MY,0,62969,64169,-640,400
+ F,0,64169,,1,0
+ S,0,64169,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,63045,64245,360
+ MY,0,63045,64245,-640,400
+ F,0,64245,,1,0
+ S,0,64245,,0.456
+ C,0,64245,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,63045,64245,360
+ MY,0,63045,64245,-640,400
+ F,0,64245,,1,0
+ S,0,64245,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,63121,64321,440
+ MY,0,63121,64321,-640,400
+ F,0,64321,,1,0
+ S,0,64321,,0.456
+ C,0,64321,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,63121,64321,440
+ MY,0,63121,64321,-640,400
+ F,0,64321,,1,0
+ S,0,64321,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,63272,64472,360
+ MY,0,63272,64472,-640,400
+ F,0,64472,,1,0
+ S,0,64472,,0.456
+ C,0,64472,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,63272,64472,360
+ MY,0,63272,64472,-640,400
+ F,0,64472,,1,0
+ S,0,64472,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,63424,64624,440
+ MY,0,63424,64624,-640,400
+ F,0,64624,,1,0
+ S,0,64624,,0.456
+ C,0,64624,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,63424,64624,440
+ MY,0,63424,64624,-640,400
+ F,0,64624,,1,0
+ S,0,64624,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,63575,64775,360
+ MY,0,63575,64775,-640,400
+ F,0,64775,,1,0
+ S,0,64775,,0.456
+ C,0,64775,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,63575,64775,360
+ MY,0,63575,64775,-640,400
+ F,0,64775,,1,0
+ S,0,64775,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,63727,64927,440
+ MY,0,63727,64927,-640,400
+ F,0,64927,,1,0
+ S,0,64927,,0.456
+ C,0,64927,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,63727,64927,440
+ MY,0,63727,64927,-640,400
+ F,0,64927,,1,0
+ S,0,64927,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,64030,65230,200
+ MY,0,64030,65230,-640,400
+ F,0,65230,,1,0
+ S,0,65230,,0.456
+ C,0,65230,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,64030,65230,200
+ MY,0,64030,65230,-640,400
+ F,0,65230,,1,0
+ S,0,65230,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,64333,65533,280
+ MY,0,64333,65533,-640,400
+ F,0,65533,,1,0
+ S,0,65533,,0.456
+ C,0,65533,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,64333,65533,280
+ MY,0,64333,65533,-640,400
+ F,0,65533,,1,0
+ S,0,65533,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,64484,65684,200
+ MY,0,64484,65684,-640,400
+ F,0,65684,,1,0
+ S,0,65684,,0.456
+ C,0,65684,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,64484,65684,200
+ MY,0,64484,65684,-640,400
+ F,0,65684,,1,0
+ S,0,65684,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,64636,65836,440
+ MY,0,64636,65836,-640,400
+ F,0,65836,,1,0
+ S,0,65836,,0.456
+ C,0,65836,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,64636,65836,440
+ MY,0,64636,65836,-640,400
+ F,0,65836,,1,0
+ S,0,65836,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,64787,65987,360
+ MY,0,64787,65987,-640,400
+ F,0,65987,,1,0
+ S,0,65987,,0.456
+ C,0,65987,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,64787,65987,360
+ MY,0,64787,65987,-640,400
+ F,0,65987,,1,0
+ S,0,65987,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,64939,66139,440
+ MY,0,64939,66139,-640,400
+ F,0,66139,,1,0
+ S,0,66139,,0.456
+ C,0,66139,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,64939,66139,440
+ MY,0,64939,66139,-640,400
+ F,0,66139,,1,0
+ S,0,66139,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65015,66215,200
+ MY,0,65015,66215,-640,400
+ F,0,66215,,1,0
+ S,0,66215,,0.456
+ C,0,66215,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65015,66215,200
+ MY,0,65015,66215,-640,400
+ F,0,66215,,1,0
+ S,0,66215,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65090,66290,280
+ MY,0,65090,66290,-640,400
+ F,0,66290,,1,0
+ S,0,66290,,0.456
+ C,0,66290,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65090,66290,280
+ MY,0,65090,66290,-640,400
+ F,0,66290,,1,0
+ S,0,66290,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65242,66442,200
+ MY,0,65242,66442,-640,400
+ F,0,66442,,1,0
+ S,0,66442,,0.456
+ C,0,66442,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65242,66442,200
+ MY,0,65242,66442,-640,400
+ F,0,66442,,1,0
+ S,0,66442,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65393,66593,280
+ MY,0,65393,66593,-640,400
+ F,0,66593,,1,0
+ S,0,66593,,0.456
+ C,0,66593,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65393,66593,280
+ MY,0,65393,66593,-640,400
+ F,0,66593,,1,0
+ S,0,66593,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65545,66745,200
+ MY,0,65545,66745,-640,400
+ F,0,66745,,1,0
+ S,0,66745,,0.456
+ C,0,66745,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65545,66745,200
+ MY,0,65545,66745,-640,400
+ F,0,66745,,1,0
+ S,0,66745,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65621,66821,440
+ MY,0,65621,66821,-640,400
+ F,0,66821,,1,0
+ S,0,66821,,0.456
+ C,0,66821,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65621,66821,440
+ MY,0,65621,66821,-640,400
+ F,0,66821,,1,0
+ S,0,66821,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65697,66897,360
+ MY,0,65697,66897,-640,400
+ F,0,66897,,1,0
+ S,0,66897,,0.456
+ C,0,66897,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65697,66897,360
+ MY,0,65697,66897,-640,400
+ F,0,66897,,1,0
+ S,0,66897,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,65848,67048,280
+ MY,0,65848,67048,-640,400
+ F,0,67048,,1,0
+ S,0,67048,,0.456
+ C,0,67048,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,65848,67048,280
+ MY,0,65848,67048,-640,400
+ F,0,67048,,1,0
+ S,0,67048,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,66000,67200,200
+ MY,0,66000,67200,-640,400
+ F,0,67200,,1,0
+ S,0,67200,,0.456
+ C,0,67200,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,66000,67200,200
+ MY,0,66000,67200,-640,400
+ F,0,67200,,1,0
+ S,0,67200,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,66151,67351,440
+ MY,0,66151,67351,-640,400
+ F,0,67351,,1,0
+ S,0,67351,,0.456
+ C,0,67351,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,66151,67351,440
+ MY,0,66151,67351,-640,400
+ F,0,67351,,1,0
+ S,0,67351,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,66303,67503,360
+ MY,0,66303,67503,-640,400
+ F,0,67503,,1,0
+ S,0,67503,,0.456
+ C,0,67503,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,66303,67503,360
+ MY,0,66303,67503,-640,400
+ F,0,67503,,1,0
+ S,0,67503,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,66454,67654,440
+ MY,0,66454,67654,-640,400
+ F,0,67654,,1,0
+ S,0,67654,,0.456
+ C,0,67654,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,66454,67654,440
+ MY,0,66454,67654,-640,400
+ F,0,67654,,1,0
+ S,0,67654,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,66757,67957,360
+ MY,0,66757,67957,-640,400
+ F,0,67957,,1,0
+ S,0,67957,,0.456
+ C,0,67957,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,66757,67957,360
+ MY,0,66757,67957,-640,400
+ F,0,67957,,1,0
+ S,0,67957,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,66931,68131,440
+ MY,0,66931,68131,-640,400
+ F,0,68131,,1,0
+ S,0,68131,,0.456
+ C,0,68131,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,66931,68131,440
+ MY,0,66931,68131,-640,400
+ F,0,68131,,1,0
+ S,0,68131,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,67105,68305,200
+ MY,0,67105,68305,-640,400
+ F,0,68305,,1,0
+ S,0,68305,,0.456
+ C,0,68305,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,67105,68305,200
+ MY,0,67105,68305,-640,400
+ F,0,68305,,1,0
+ S,0,68305,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,67280,68480,280
+ MY,0,67280,68480,-640,400
+ F,0,68480,,1,0
+ S,0,68480,,0.456
+ C,0,68480,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,67280,68480,280
+ MY,0,67280,68480,-640,400
+ F,0,68480,,1,0
+ S,0,68480,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,67454,68654,200
+ MY,0,67454,68654,-640,400
+ F,0,68654,,1,0
+ S,0,68654,,0.456
+ C,0,68654,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,67454,68654,200
+ MY,0,67454,68654,-640,400
+ F,0,68654,,1,0
+ S,0,68654,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,67648,68848,280
+ MY,0,67648,68848,-640,400
+ F,0,68848,,1,0
+ S,0,68848,,0.456
+ C,0,68848,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,67648,68848,280
+ MY,0,67648,68848,-640,400
+ F,0,68848,,1,0
+ S,0,68848,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,67843,69043,360
+ MY,0,67843,69043,-640,400
+ F,0,69043,,1,0
+ S,0,69043,,0.456
+ C,0,69043,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,67843,69043,360
+ MY,0,67843,69043,-640,400
+ F,0,69043,,1,0
+ S,0,69043,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68038,69238,280
+ MY,0,68038,69238,-640,400
+ F,0,69238,,1,0
+ S,0,69238,,0.456
+ C,0,69238,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68038,69238,280
+ MY,0,68038,69238,-640,400
+ F,0,69238,,1,0
+ S,0,69238,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68233,69433,360
+ MY,0,68233,69433,-640,400
+ F,0,69433,,1,0
+ S,0,69433,,0.456
+ C,0,69433,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68233,69433,360
+ MY,0,68233,69433,-640,400
+ F,0,69433,,1,0
+ S,0,69433,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68233,69433,280
+ MY,0,68233,69433,-640,400
+ F,0,69433,,1,0
+ S,0,69433,,0.456
+ C,0,69433,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68233,69433,280
+ MY,0,68233,69433,-640,400
+ F,0,69433,,1,0
+ S,0,69433,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68405,69605,440
+ MY,0,68405,69605,-640,400
+ F,0,69605,,1,0
+ S,0,69605,,0.456
+ C,0,69605,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68405,69605,440
+ MY,0,68405,69605,-640,400
+ F,0,69605,,1,0
+ S,0,69605,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68577,69777,200
+ MY,0,68577,69777,-640,400
+ F,0,69777,,1,0
+ S,0,69777,,0.456
+ C,0,69777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68577,69777,200
+ MY,0,68577,69777,-640,400
+ F,0,69777,,1,0
+ S,0,69777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68750,69950,280
+ MY,0,68750,69950,-640,400
+ F,0,69950,,1,0
+ S,0,69950,,0.456
+ C,0,69950,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68750,69950,280
+ MY,0,68750,69950,-640,400
+ F,0,69950,,1,0
+ S,0,69950,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,68922,70122,200
+ MY,0,68922,70122,-640,400
+ F,0,70122,,1,0
+ S,0,70122,,0.456
+ C,0,70122,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,68922,70122,200
+ MY,0,68922,70122,-640,400
+ F,0,70122,,1,0
+ S,0,70122,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,69267,70467,440
+ MY,0,69267,70467,-640,400
+ F,0,70467,,1,0
+ S,0,70467,,0.456
+ C,0,70467,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,69267,70467,440
+ MY,0,69267,70467,-640,400
+ F,0,70467,,1,0
+ S,0,70467,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,69612,70812,360
+ MY,0,69612,70812,-640,400
+ F,0,70812,,1,0
+ S,0,70812,,0.456
+ C,0,70812,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,69612,70812,360
+ MY,0,69612,70812,-640,400
+ F,0,70812,,1,0
+ S,0,70812,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,69784,70984,440
+ MY,0,69784,70984,-640,400
+ F,0,70984,,1,0
+ S,0,70984,,0.456
+ C,0,70984,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,69784,70984,440
+ MY,0,69784,70984,-640,400
+ F,0,70984,,1,0
+ S,0,70984,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,69957,71157,200
+ MY,0,69957,71157,-640,400
+ F,0,71157,,1,0
+ S,0,71157,,0.456
+ C,0,71157,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,69957,71157,200
+ MY,0,69957,71157,-640,400
+ F,0,71157,,1,0
+ S,0,71157,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,70129,71329,280
+ MY,0,70129,71329,-640,400
+ F,0,71329,,1,0
+ S,0,71329,,0.456
+ C,0,71329,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,70129,71329,280
+ MY,0,70129,71329,-640,400
+ F,0,71329,,1,0
+ S,0,71329,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,70301,71501,200
+ MY,0,70301,71501,-640,400
+ F,0,71501,,1,0
+ S,0,71501,,0.456
+ C,0,71501,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,70301,71501,200
+ MY,0,70301,71501,-640,400
+ F,0,71501,,1,0
+ S,0,71501,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,70474,71674,280
+ MY,0,70474,71674,-640,400
+ F,0,71674,,1,0
+ S,0,71674,,0.456
+ C,0,71674,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,70474,71674,280
+ MY,0,70474,71674,-640,400
+ F,0,71674,,1,0
+ S,0,71674,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,70646,71846,200
+ MY,0,70646,71846,-640,400
+ F,0,71846,,1,0
+ S,0,71846,,0.456
+ C,0,71846,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,70646,71846,200
+ MY,0,70646,71846,-640,400
+ F,0,71846,,1,0
+ S,0,71846,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,70819,72019,440
+ MY,0,70819,72019,-640,400
+ F,0,72019,,1,0
+ S,0,72019,,0.456
+ C,0,72019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,70819,72019,440
+ MY,0,70819,72019,-640,400
+ F,0,72019,,1,0
+ S,0,72019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,70991,72191,360
+ MY,0,70991,72191,-640,400
+ F,0,72191,,1,0
+ S,0,72191,,0.456
+ C,0,72191,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,70991,72191,360
+ MY,0,70991,72191,-640,400
+ F,0,72191,,1,0
+ S,0,72191,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,71164,72364,280
+ MY,0,71164,72364,-640,400
+ F,0,72364,,1,0
+ S,0,72364,,0.456
+ C,0,72364,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,71164,72364,280
+ MY,0,71164,72364,-640,400
+ F,0,72364,,1,0
+ S,0,72364,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,71336,72536,360
+ MY,0,71336,72536,-640,400
+ F,0,72536,,1,0
+ S,0,72536,,0.456
+ C,0,72536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,71336,72536,360
+ MY,0,71336,72536,-640,400
+ F,0,72536,,1,0
+ S,0,72536,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,71508,72708,440
+ MY,0,71508,72708,-640,400
+ F,0,72708,,1,0
+ S,0,72708,,0.456
+ C,0,72708,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,71508,72708,440
+ MY,0,71508,72708,-640,400
+ F,0,72708,,1,0
+ S,0,72708,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,71681,72881,200
+ MY,0,71681,72881,-640,400
+ F,0,72881,,1,0
+ S,0,72881,,0.456
+ C,0,72881,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,71681,72881,200
+ MY,0,71681,72881,-640,400
+ F,0,72881,,1,0
+ S,0,72881,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,72026,73226,440
+ MY,0,72026,73226,-640,400
+ F,0,73226,,1,0
+ S,0,73226,,0.456
+ C,0,73226,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,72026,73226,440
+ MY,0,72026,73226,-640,400
+ F,0,73226,,1,0
+ S,0,73226,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,72370,73570,360
+ MY,0,72370,73570,-640,400
+ F,0,73570,,1,0
+ S,0,73570,,0.456
+ C,0,73570,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,72370,73570,360
+ MY,0,72370,73570,-640,400
+ F,0,73570,,1,0
+ S,0,73570,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,72543,73743,440
+ MY,0,72543,73743,-640,400
+ F,0,73743,,1,0
+ S,0,73743,,0.456
+ C,0,73743,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,72543,73743,440
+ MY,0,72543,73743,-640,400
+ F,0,73743,,1,0
+ S,0,73743,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,72715,73915,200
+ MY,0,72715,73915,-640,400
+ F,0,73915,,1,0
+ S,0,73915,,0.456
+ C,0,73915,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,72715,73915,200
+ MY,0,72715,73915,-640,400
+ F,0,73915,,1,0
+ S,0,73915,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,72888,74088,280
+ MY,0,72888,74088,-640,400
+ F,0,74088,,1,0
+ S,0,74088,,0.456
+ C,0,74088,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,72888,74088,280
+ MY,0,72888,74088,-640,400
+ F,0,74088,,1,0
+ S,0,74088,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,73060,74260,200
+ MY,0,73060,74260,-640,400
+ F,0,74260,,1,0
+ S,0,74260,,0.456
+ C,0,74260,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,73060,74260,200
+ MY,0,73060,74260,-640,400
+ F,0,74260,,1,0
+ S,0,74260,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,73233,74433,440
+ MY,0,73233,74433,-640,400
+ F,0,74433,,1,0
+ S,0,74433,,0.456
+ C,0,74433,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,73233,74433,440
+ MY,0,73233,74433,-640,400
+ F,0,74433,,1,0
+ S,0,74433,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,73405,74605,360
+ MY,0,73405,74605,-640,400
+ F,0,74605,,1,0
+ S,0,74605,,0.456
+ C,0,74605,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,73405,74605,360
+ MY,0,73405,74605,-640,400
+ F,0,74605,,1,0
+ S,0,74605,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,73577,74777,280
+ MY,0,73577,74777,-640,400
+ F,0,74777,,1,0
+ S,0,74777,,0.456
+ C,0,74777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,73577,74777,280
+ MY,0,73577,74777,-640,400
+ F,0,74777,,1,0
+ S,0,74777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,73750,74950,360
+ MY,0,73750,74950,-640,400
+ F,0,74950,,1,0
+ S,0,74950,,0.456
+ C,0,74950,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,73750,74950,360
+ MY,0,73750,74950,-640,400
+ F,0,74950,,1,0
+ S,0,74950,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,73836,75036,440
+ MY,0,73836,75036,-640,400
+ F,0,75036,,1,0
+ S,0,75036,,0.456
+ C,0,75036,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,73836,75036,440
+ MY,0,73836,75036,-640,400
+ F,0,75036,,1,0
+ S,0,75036,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74008,75208,200
+ MY,0,74008,75208,-640,400
+ F,0,75208,,1,0
+ S,0,75208,,0.456
+ C,0,75208,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74008,75208,200
+ MY,0,74008,75208,-640,400
+ F,0,75208,,1,0
+ S,0,75208,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74095,75295,280
+ MY,0,74095,75295,-640,400
+ F,0,75295,,1,0
+ S,0,75295,,0.456
+ C,0,75295,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74095,75295,280
+ MY,0,74095,75295,-640,400
+ F,0,75295,,1,0
+ S,0,75295,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74181,75381,360
+ MY,0,74181,75381,-640,400
+ F,0,75381,,1,0
+ S,0,75381,,0.456
+ C,0,75381,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74181,75381,360
+ MY,0,74181,75381,-640,400
+ F,0,75381,,1,0
+ S,0,75381,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74267,75467,440
+ MY,0,74267,75467,-640,400
+ F,0,75467,,1,0
+ S,0,75467,,0.456
+ C,0,75467,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74267,75467,440
+ MY,0,74267,75467,-640,400
+ F,0,75467,,1,0
+ S,0,75467,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74439,75639,200
+ MY,0,74439,75639,-640,400
+ F,0,75639,,1,0
+ S,0,75639,,0.456
+ C,0,75639,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74439,75639,200
+ MY,0,74439,75639,-640,400
+ F,0,75639,,1,0
+ S,0,75639,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74526,75726,280
+ MY,0,74526,75726,-640,400
+ F,0,75726,,1,0
+ S,0,75726,,0.456
+ C,0,75726,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74526,75726,280
+ MY,0,74526,75726,-640,400
+ F,0,75726,,1,0
+ S,0,75726,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74698,75898,200
+ MY,0,74698,75898,-640,400
+ F,0,75898,,1,0
+ S,0,75898,,0.456
+ C,0,75898,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74698,75898,200
+ MY,0,74698,75898,-640,400
+ F,0,75898,,1,0
+ S,0,75898,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74784,75984,440
+ MY,0,74784,75984,-640,400
+ F,0,75984,,1,0
+ S,0,75984,,0.456
+ C,0,75984,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74784,75984,440
+ MY,0,74784,75984,-640,400
+ F,0,75984,,1,0
+ S,0,75984,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74870,76070,360
+ MY,0,74870,76070,-640,400
+ F,0,76070,,1,0
+ S,0,76070,,0.456
+ C,0,76070,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74870,76070,360
+ MY,0,74870,76070,-640,400
+ F,0,76070,,1,0
+ S,0,76070,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,74957,76157,440
+ MY,0,74957,76157,-640,400
+ F,0,76157,,1,0
+ S,0,76157,,0.456
+ C,0,76157,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,74957,76157,440
+ MY,0,74957,76157,-640,400
+ F,0,76157,,1,0
+ S,0,76157,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75129,76329,360
+ MY,0,75129,76329,-640,400
+ F,0,76329,,1,0
+ S,0,76329,,0.456
+ C,0,76329,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75129,76329,360
+ MY,0,75129,76329,-640,400
+ F,0,76329,,1,0
+ S,0,76329,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75215,76415,440
+ MY,0,75215,76415,-640,400
+ F,0,76415,,1,0
+ S,0,76415,,0.456
+ C,0,76415,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75215,76415,440
+ MY,0,75215,76415,-640,400
+ F,0,76415,,1,0
+ S,0,76415,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75388,76588,200
+ MY,0,75388,76588,-640,400
+ F,0,76588,,1,0
+ S,0,76588,,0.456
+ C,0,76588,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75388,76588,200
+ MY,0,75388,76588,-640,400
+ F,0,76588,,1,0
+ S,0,76588,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75474,76674,280
+ MY,0,75474,76674,-640,400
+ F,0,76674,,1,0
+ S,0,76674,,0.456
+ C,0,76674,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75474,76674,280
+ MY,0,75474,76674,-640,400
+ F,0,76674,,1,0
+ S,0,76674,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75560,76760,360
+ MY,0,75560,76760,-640,400
+ F,0,76760,,1,0
+ S,0,76760,,0.456
+ C,0,76760,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75560,76760,360
+ MY,0,75560,76760,-640,400
+ F,0,76760,,1,0
+ S,0,76760,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75646,76846,440
+ MY,0,75646,76846,-640,400
+ F,0,76846,,1,0
+ S,0,76846,,0.456
+ C,0,76846,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75646,76846,440
+ MY,0,75646,76846,-640,400
+ F,0,76846,,1,0
+ S,0,76846,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75819,77019,200
+ MY,0,75819,77019,-640,400
+ F,0,77019,,1,0
+ S,0,77019,,0.456
+ C,0,77019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75819,77019,200
+ MY,0,75819,77019,-640,400
+ F,0,77019,,1,0
+ S,0,77019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,75905,77105,440
+ MY,0,75905,77105,-640,400
+ F,0,77105,,1,0
+ S,0,77105,,0.456
+ C,0,77105,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,75905,77105,440
+ MY,0,75905,77105,-640,400
+ F,0,77105,,1,0
+ S,0,77105,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76077,77277,200
+ MY,0,76077,77277,-640,400
+ F,0,77277,,1,0
+ S,0,77277,,0.456
+ C,0,77277,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76077,77277,200
+ MY,0,76077,77277,-640,400
+ F,0,77277,,1,0
+ S,0,77277,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76164,77364,280
+ MY,0,76164,77364,-640,400
+ F,0,77364,,1,0
+ S,0,77364,,0.456
+ C,0,77364,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76164,77364,280
+ MY,0,76164,77364,-640,400
+ F,0,77364,,1,0
+ S,0,77364,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76336,77536,200
+ MY,0,76336,77536,-640,400
+ F,0,77536,,1,0
+ S,0,77536,,0.456
+ C,0,77536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76336,77536,200
+ MY,0,76336,77536,-640,400
+ F,0,77536,,1,0
+ S,0,77536,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76508,77708,280
+ MY,0,76508,77708,-640,400
+ F,0,77708,,1,0
+ S,0,77708,,0.456
+ C,0,77708,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76508,77708,280
+ MY,0,76508,77708,-640,400
+ F,0,77708,,1,0
+ S,0,77708,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76595,77795,200
+ MY,0,76595,77795,-640,400
+ F,0,77795,,1,0
+ S,0,77795,,0.456
+ C,0,77795,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76595,77795,200
+ MY,0,76595,77795,-640,400
+ F,0,77795,,1,0
+ S,0,77795,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76767,77967,440
+ MY,0,76767,77967,-640,400
+ F,0,77967,,1,0
+ S,0,77967,,0.456
+ C,0,77967,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76767,77967,440
+ MY,0,76767,77967,-640,400
+ F,0,77967,,1,0
+ S,0,77967,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76853,78053,360
+ MY,0,76853,78053,-640,400
+ F,0,78053,,1,0
+ S,0,78053,,0.456
+ C,0,78053,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76853,78053,360
+ MY,0,76853,78053,-640,400
+ F,0,78053,,1,0
+ S,0,78053,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,76939,78139,280
+ MY,0,76939,78139,-640,400
+ F,0,78139,,1,0
+ S,0,78139,,0.456
+ C,0,78139,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,76939,78139,280
+ MY,0,76939,78139,-640,400
+ F,0,78139,,1,0
+ S,0,78139,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77026,78226,200
+ MY,0,77026,78226,-640,400
+ F,0,78226,,1,0
+ S,0,78226,,0.456
+ C,0,78226,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77026,78226,200
+ MY,0,77026,78226,-640,400
+ F,0,78226,,1,0
+ S,0,78226,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77198,78398,440
+ MY,0,77198,78398,-640,400
+ F,0,78398,,1,0
+ S,0,78398,,0.456
+ C,0,78398,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77198,78398,440
+ MY,0,77198,78398,-640,400
+ F,0,78398,,1,0
+ S,0,78398,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77284,78484,360
+ MY,0,77284,78484,-640,400
+ F,0,78484,,1,0
+ S,0,78484,,0.456
+ C,0,78484,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77284,78484,360
+ MY,0,77284,78484,-640,400
+ F,0,78484,,1,0
+ S,0,78484,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77457,78657,280
+ MY,0,77457,78657,-640,400
+ F,0,78657,,1,0
+ S,0,78657,,0.456
+ C,0,78657,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77457,78657,280
+ MY,0,77457,78657,-640,400
+ F,0,78657,,1,0
+ S,0,78657,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77543,78743,200
+ MY,0,77543,78743,-640,400
+ F,0,78743,,1,0
+ S,0,78743,,0.456
+ C,0,78743,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77543,78743,200
+ MY,0,77543,78743,-640,400
+ F,0,78743,,1,0
+ S,0,78743,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77629,78829,280
+ MY,0,77629,78829,-640,400
+ F,0,78829,,1,0
+ S,0,78829,,0.456
+ C,0,78829,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77629,78829,280
+ MY,0,77629,78829,-640,400
+ F,0,78829,,1,0
+ S,0,78829,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77715,78915,200
+ MY,0,77715,78915,-640,400
+ F,0,78915,,1,0
+ S,0,78915,,0.456
+ C,0,78915,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77715,78915,200
+ MY,0,77715,78915,-640,400
+ F,0,78915,,1,0
+ S,0,78915,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77888,79088,280
+ MY,0,77888,79088,-640,400
+ F,0,79088,,1,0
+ S,0,79088,,0.456
+ C,0,79088,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77888,79088,280
+ MY,0,77888,79088,-640,400
+ F,0,79088,,1,0
+ S,0,79088,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,77974,79174,200
+ MY,0,77974,79174,-640,400
+ F,0,79174,,1,0
+ S,0,79174,,0.456
+ C,0,79174,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,77974,79174,200
+ MY,0,77974,79174,-640,400
+ F,0,79174,,1,0
+ S,0,79174,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78146,79346,440
+ MY,0,78146,79346,-640,400
+ F,0,79346,,1,0
+ S,0,79346,,0.456
+ C,0,79346,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78146,79346,440
+ MY,0,78146,79346,-640,400
+ F,0,79346,,1,0
+ S,0,79346,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78233,79433,360
+ MY,0,78233,79433,-640,400
+ F,0,79433,,1,0
+ S,0,79433,,0.456
+ C,0,79433,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78233,79433,360
+ MY,0,78233,79433,-640,400
+ F,0,79433,,1,0
+ S,0,79433,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78319,79519,280
+ MY,0,78319,79519,-640,400
+ F,0,79519,,1,0
+ S,0,79519,,0.456
+ C,0,79519,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78319,79519,280
+ MY,0,78319,79519,-640,400
+ F,0,79519,,1,0
+ S,0,79519,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78405,79605,200
+ MY,0,78405,79605,-640,400
+ F,0,79605,,1,0
+ S,0,79605,,0.456
+ C,0,79605,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78405,79605,200
+ MY,0,78405,79605,-640,400
+ F,0,79605,,1,0
+ S,0,79605,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78577,79777,280
+ MY,0,78577,79777,-640,400
+ F,0,79777,,1,0
+ S,0,79777,,0.456
+ C,0,79777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78577,79777,280
+ MY,0,78577,79777,-640,400
+ F,0,79777,,1,0
+ S,0,79777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78664,79864,200
+ MY,0,78664,79864,-640,400
+ F,0,79864,,1,0
+ S,0,79864,,0.456
+ C,0,79864,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78664,79864,200
+ MY,0,78664,79864,-640,400
+ F,0,79864,,1,0
+ S,0,79864,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78836,80036,440
+ MY,0,78836,80036,-640,400
+ F,0,80036,,1,0
+ S,0,80036,,0.456
+ C,0,80036,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78836,80036,440
+ MY,0,78836,80036,-640,400
+ F,0,80036,,1,0
+ S,0,80036,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,78922,80122,360
+ MY,0,78922,80122,-640,400
+ F,0,80122,,1,0
+ S,0,80122,,0.456
+ C,0,80122,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,78922,80122,360
+ MY,0,78922,80122,-640,400
+ F,0,80122,,1,0
+ S,0,80122,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79095,80295,440
+ MY,0,79095,80295,-640,400
+ F,0,80295,,1,0
+ S,0,80295,,0.456
+ C,0,80295,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79095,80295,440
+ MY,0,79095,80295,-640,400
+ F,0,80295,,1,0
+ S,0,80295,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79267,80467,360
+ MY,0,79267,80467,-640,400
+ F,0,80467,,1,0
+ S,0,80467,,0.456
+ C,0,80467,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79267,80467,360
+ MY,0,79267,80467,-640,400
+ F,0,80467,,1,0
+ S,0,80467,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79353,80553,440
+ MY,0,79353,80553,-640,400
+ F,0,80553,,1,0
+ S,0,80553,,0.456
+ C,0,80553,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79353,80553,440
+ MY,0,79353,80553,-640,400
+ F,0,80553,,1,0
+ S,0,80553,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79526,80726,200
+ MY,0,79526,80726,-640,400
+ F,0,80726,,1,0
+ S,0,80726,,0.456
+ C,0,80726,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79526,80726,200
+ MY,0,79526,80726,-640,400
+ F,0,80726,,1,0
+ S,0,80726,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79612,80812,280
+ MY,0,79612,80812,-640,400
+ F,0,80812,,1,0
+ S,0,80812,,0.456
+ C,0,80812,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79612,80812,280
+ MY,0,79612,80812,-640,400
+ F,0,80812,,1,0
+ S,0,80812,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79698,80898,360
+ MY,0,79698,80898,-640,400
+ F,0,80898,,1,0
+ S,0,80898,,0.456
+ C,0,80898,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79698,80898,360
+ MY,0,79698,80898,-640,400
+ F,0,80898,,1,0
+ S,0,80898,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79784,80984,440
+ MY,0,79784,80984,-640,400
+ F,0,80984,,1,0
+ S,0,80984,,0.456
+ C,0,80984,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79784,80984,440
+ MY,0,79784,80984,-640,400
+ F,0,80984,,1,0
+ S,0,80984,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,79957,81157,200
+ MY,0,79957,81157,-640,400
+ F,0,81157,,1,0
+ S,0,81157,,0.456
+ C,0,81157,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,79957,81157,200
+ MY,0,79957,81157,-640,400
+ F,0,81157,,1,0
+ S,0,81157,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80043,81243,280
+ MY,0,80043,81243,-640,400
+ F,0,81243,,1,0
+ S,0,81243,,0.456
+ C,0,81243,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80043,81243,280
+ MY,0,80043,81243,-640,400
+ F,0,81243,,1,0
+ S,0,81243,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80215,81415,360
+ MY,0,80215,81415,-640,400
+ F,0,81415,,1,0
+ S,0,81415,,0.456
+ C,0,81415,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80215,81415,360
+ MY,0,80215,81415,-640,400
+ F,0,81415,,1,0
+ S,0,81415,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80301,81501,440
+ MY,0,80301,81501,-640,400
+ F,0,81501,,1,0
+ S,0,81501,,0.456
+ C,0,81501,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80301,81501,440
+ MY,0,80301,81501,-640,400
+ F,0,81501,,1,0
+ S,0,81501,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80388,81588,200
+ MY,0,80388,81588,-640,400
+ F,0,81588,,1,0
+ S,0,81588,,0.456
+ C,0,81588,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80388,81588,200
+ MY,0,80388,81588,-640,400
+ F,0,81588,,1,0
+ S,0,81588,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80474,81674,280
+ MY,0,80474,81674,-640,400
+ F,0,81674,,1,0
+ S,0,81674,,0.456
+ C,0,81674,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80474,81674,280
+ MY,0,80474,81674,-640,400
+ F,0,81674,,1,0
+ S,0,81674,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80646,81846,360
+ MY,0,80646,81846,-640,400
+ F,0,81846,,1,0
+ S,0,81846,,0.456
+ C,0,81846,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80646,81846,360
+ MY,0,80646,81846,-640,400
+ F,0,81846,,1,0
+ S,0,81846,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80733,81933,440
+ MY,0,80733,81933,-640,400
+ F,0,81933,,1,0
+ S,0,81933,,0.456
+ C,0,81933,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80733,81933,440
+ MY,0,80733,81933,-640,400
+ F,0,81933,,1,0
+ S,0,81933,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80905,82105,200
+ MY,0,80905,82105,-640,400
+ F,0,82105,,1,0
+ S,0,82105,,0.456
+ C,0,82105,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80905,82105,200
+ MY,0,80905,82105,-640,400
+ F,0,82105,,1,0
+ S,0,82105,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,80991,82191,440
+ MY,0,80991,82191,-640,400
+ F,0,82191,,1,0
+ S,0,82191,,0.456
+ C,0,82191,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,80991,82191,440
+ MY,0,80991,82191,-640,400
+ F,0,82191,,1,0
+ S,0,82191,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81077,82277,360
+ MY,0,81077,82277,-640,400
+ F,0,82277,,1,0
+ S,0,82277,,0.456
+ C,0,82277,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81077,82277,360
+ MY,0,81077,82277,-640,400
+ F,0,82277,,1,0
+ S,0,82277,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81164,82364,440
+ MY,0,81164,82364,-640,400
+ F,0,82364,,1,0
+ S,0,82364,,0.456
+ C,0,82364,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81164,82364,440
+ MY,0,81164,82364,-640,400
+ F,0,82364,,1,0
+ S,0,82364,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81336,82536,360
+ MY,0,81336,82536,-640,400
+ F,0,82536,,1,0
+ S,0,82536,,0.456
+ C,0,82536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81336,82536,360
+ MY,0,81336,82536,-640,400
+ F,0,82536,,1,0
+ S,0,82536,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81422,82622,440
+ MY,0,81422,82622,-640,400
+ F,0,82622,,1,0
+ S,0,82622,,0.456
+ C,0,82622,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81422,82622,440
+ MY,0,81422,82622,-640,400
+ F,0,82622,,1,0
+ S,0,82622,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81595,82795,200
+ MY,0,81595,82795,-640,400
+ F,0,82795,,1,0
+ S,0,82795,,0.456
+ C,0,82795,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81595,82795,200
+ MY,0,81595,82795,-640,400
+ F,0,82795,,1,0
+ S,0,82795,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81681,82881,280
+ MY,0,81681,82881,-640,400
+ F,0,82881,,1,0
+ S,0,82881,,0.456
+ C,0,82881,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81681,82881,280
+ MY,0,81681,82881,-640,400
+ F,0,82881,,1,0
+ S,0,82881,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,81853,83053,200
+ MY,0,81853,83053,-640,400
+ F,0,83053,,1,0
+ S,0,83053,,0.456
+ C,0,83053,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,81853,83053,200
+ MY,0,81853,83053,-640,400
+ F,0,83053,,1,0
+ S,0,83053,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82026,83226,280
+ MY,0,82026,83226,-640,400
+ F,0,83226,,1,0
+ S,0,83226,,0.456
+ C,0,83226,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82026,83226,280
+ MY,0,82026,83226,-640,400
+ F,0,83226,,1,0
+ S,0,83226,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82112,83312,200
+ MY,0,82112,83312,-640,400
+ F,0,83312,,1,0
+ S,0,83312,,0.456
+ C,0,83312,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82112,83312,200
+ MY,0,82112,83312,-640,400
+ F,0,83312,,1,0
+ S,0,83312,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82284,83484,440
+ MY,0,82284,83484,-640,400
+ F,0,83484,,1,0
+ S,0,83484,,0.456
+ C,0,83484,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82284,83484,440
+ MY,0,82284,83484,-640,400
+ F,0,83484,,1,0
+ S,0,83484,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82370,83570,360
+ MY,0,82370,83570,-640,400
+ F,0,83570,,1,0
+ S,0,83570,,0.456
+ C,0,83570,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82370,83570,360
+ MY,0,82370,83570,-640,400
+ F,0,83570,,1,0
+ S,0,83570,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82457,83657,280
+ MY,0,82457,83657,-640,400
+ F,0,83657,,1,0
+ S,0,83657,,0.456
+ C,0,83657,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82457,83657,280
+ MY,0,82457,83657,-640,400
+ F,0,83657,,1,0
+ S,0,83657,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82543,83743,200
+ MY,0,82543,83743,-640,400
+ F,0,83743,,1,0
+ S,0,83743,,0.456
+ C,0,83743,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82543,83743,200
+ MY,0,82543,83743,-640,400
+ F,0,83743,,1,0
+ S,0,83743,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82715,83915,440
+ MY,0,82715,83915,-640,400
+ F,0,83915,,1,0
+ S,0,83915,,0.456
+ C,0,83915,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82715,83915,440
+ MY,0,82715,83915,-640,400
+ F,0,83915,,1,0
+ S,0,83915,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82801,84001,360
+ MY,0,82801,84001,-640,400
+ F,0,84001,,1,0
+ S,0,84001,,0.456
+ C,0,84001,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82801,84001,360
+ MY,0,82801,84001,-640,400
+ F,0,84001,,1,0
+ S,0,84001,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,82974,84174,280
+ MY,0,82974,84174,-640,400
+ F,0,84174,,1,0
+ S,0,84174,,0.456
+ C,0,84174,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,82974,84174,280
+ MY,0,82974,84174,-640,400
+ F,0,84174,,1,0
+ S,0,84174,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83060,84260,200
+ MY,0,83060,84260,-640,400
+ F,0,84260,,1,0
+ S,0,84260,,0.456
+ C,0,84260,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83060,84260,200
+ MY,0,83060,84260,-640,400
+ F,0,84260,,1,0
+ S,0,84260,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83146,84346,440
+ MY,0,83146,84346,-640,400
+ F,0,84346,,1,0
+ S,0,84346,,0.456
+ C,0,84346,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83146,84346,440
+ MY,0,83146,84346,-640,400
+ F,0,84346,,1,0
+ S,0,84346,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83233,84433,360
+ MY,0,83233,84433,-640,400
+ F,0,84433,,1,0
+ S,0,84433,,0.456
+ C,0,84433,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83233,84433,360
+ MY,0,83233,84433,-640,400
+ F,0,84433,,1,0
+ S,0,84433,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83405,84605,280
+ MY,0,83405,84605,-640,400
+ F,0,84605,,1,0
+ S,0,84605,,0.456
+ C,0,84605,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83405,84605,280
+ MY,0,83405,84605,-640,400
+ F,0,84605,,1,0
+ S,0,84605,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83491,84691,200
+ MY,0,83491,84691,-640,400
+ F,0,84691,,1,0
+ S,0,84691,,0.456
+ C,0,84691,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83491,84691,200
+ MY,0,83491,84691,-640,400
+ F,0,84691,,1,0
+ S,0,84691,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83664,84864,440
+ MY,0,83664,84864,-640,400
+ F,0,84864,,1,0
+ S,0,84864,,0.456
+ C,0,84864,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83664,84864,440
+ MY,0,83664,84864,-640,400
+ F,0,84864,,1,0
+ S,0,84864,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83750,84950,360
+ MY,0,83750,84950,-640,400
+ F,0,84950,,1,0
+ S,0,84950,,0.456
+ C,0,84950,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83750,84950,360
+ MY,0,83750,84950,-640,400
+ F,0,84950,,1,0
+ S,0,84950,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83836,85036,280
+ MY,0,83836,85036,-640,400
+ F,0,85036,,1,0
+ S,0,85036,,0.456
+ C,0,85036,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83836,85036,280
+ MY,0,83836,85036,-640,400
+ F,0,85036,,1,0
+ S,0,85036,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,83922,85122,200
+ MY,0,83922,85122,-640,400
+ F,0,85122,,1,0
+ S,0,85122,,0.456
+ C,0,85122,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,83922,85122,200
+ MY,0,83922,85122,-640,400
+ F,0,85122,,1,0
+ S,0,85122,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84095,85295,280
+ MY,0,84095,85295,-640,400
+ F,0,85295,,1,0
+ S,0,85295,,0.456
+ C,0,85295,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84095,85295,280
+ MY,0,84095,85295,-640,400
+ F,0,85295,,1,0
+ S,0,85295,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84181,85381,200
+ MY,0,84181,85381,-640,400
+ F,0,85381,,1,0
+ S,0,85381,,0.456
+ C,0,85381,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84181,85381,200
+ MY,0,84181,85381,-640,400
+ F,0,85381,,1,0
+ S,0,85381,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84353,85553,440
+ MY,0,84353,85553,-640,400
+ F,0,85553,,1,0
+ S,0,85553,,0.456
+ C,0,85553,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84353,85553,440
+ MY,0,84353,85553,-640,400
+ F,0,85553,,1,0
+ S,0,85553,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84439,85639,360
+ MY,0,84439,85639,-640,400
+ F,0,85639,,1,0
+ S,0,85639,,0.456
+ C,0,85639,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84439,85639,360
+ MY,0,84439,85639,-640,400
+ F,0,85639,,1,0
+ S,0,85639,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84526,85726,280
+ MY,0,84526,85726,-640,400
+ F,0,85726,,1,0
+ S,0,85726,,0.456
+ C,0,85726,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84526,85726,280
+ MY,0,84526,85726,-640,400
+ F,0,85726,,1,0
+ S,0,85726,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84612,85812,200
+ MY,0,84612,85812,-640,400
+ F,0,85812,,1,0
+ S,0,85812,,0.456
+ C,0,85812,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84612,85812,200
+ MY,0,84612,85812,-640,400
+ F,0,85812,,1,0
+ S,0,85812,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84698,85898,440
+ MY,0,84698,85898,-640,400
+ F,0,85898,,1,0
+ S,0,85898,,0.456
+ C,0,85898,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84698,85898,440
+ MY,0,84698,85898,-640,400
+ F,0,85898,,1,0
+ S,0,85898,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,84784,85984,360
+ MY,0,84784,85984,-640,400
+ F,0,85984,,1,0
+ S,0,85984,,0.456
+ C,0,85984,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,84784,85984,360
+ MY,0,84784,85984,-640,400
+ F,0,85984,,1,0
+ S,0,85984,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,85129,86329,280
+ MY,0,85129,86329,-640,400
+ F,0,86329,,1,0
+ S,0,86329,,0.456
+ C,0,86329,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,85129,86329,280
+ MY,0,85129,86329,-640,400
+ F,0,86329,,1,0
+ S,0,86329,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,85301,86501,200
+ MY,0,85301,86501,-640,400
+ F,0,86501,,1,0
+ S,0,86501,,0.456
+ C,0,86501,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,85301,86501,200
+ MY,0,85301,86501,-640,400
+ F,0,86501,,1,0
+ S,0,86501,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,85646,86846,280
+ MY,0,85646,86846,-640,400
+ F,0,86846,,1,0
+ S,0,86846,,0.456
+ C,0,86846,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,85646,86846,280
+ MY,0,85646,86846,-640,400
+ F,0,86846,,1,0
+ S,0,86846,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,85819,87019,200
+ MY,0,85819,87019,-640,400
+ F,0,87019,,1,0
+ S,0,87019,,0.456
+ C,0,87019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,85819,87019,200
+ MY,0,85819,87019,-640,400
+ F,0,87019,,1,0
+ S,0,87019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,86164,87364,280
+ MY,0,86164,87364,-640,400
+ F,0,87364,,1,0
+ S,0,87364,,0.456
+ C,0,87364,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,86164,87364,280
+ MY,0,86164,87364,-640,400
+ F,0,87364,,1,0
+ S,0,87364,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,86336,87536,200
+ MY,0,86336,87536,-640,400
+ F,0,87536,,1,0
+ S,0,87536,,0.456
+ C,0,87536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,86336,87536,200
+ MY,0,86336,87536,-640,400
+ F,0,87536,,1,0
+ S,0,87536,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,86681,87881,440
+ MY,0,86681,87881,-640,400
+ F,0,87881,,1,0
+ S,0,87881,,0.456
+ C,0,87881,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,86681,87881,440
+ MY,0,86681,87881,-640,400
+ F,0,87881,,1,0
+ S,0,87881,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,86853,88053,200
+ MY,0,86853,88053,-640,400
+ F,0,88053,,1,0
+ S,0,88053,,0.456
+ C,0,88053,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,86853,88053,200
+ MY,0,86853,88053,-640,400
+ F,0,88053,,1,0
+ S,0,88053,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,87198,88398,280
+ MY,0,87198,88398,-640,400
+ F,0,88398,,1,0
+ S,0,88398,,0.456
+ C,0,88398,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,87198,88398,280
+ MY,0,87198,88398,-640,400
+ F,0,88398,,1,0
+ S,0,88398,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,87543,88743,360
+ MY,0,87543,88743,-640,400
+ F,0,88743,,1,0
+ S,0,88743,,0.456
+ C,0,88743,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,87543,88743,360
+ MY,0,87543,88743,-640,400
+ F,0,88743,,1,0
+ S,0,88743,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,87543,88743,280
+ MY,0,87543,88743,-640,400
+ F,0,88743,,1,0
+ S,0,88743,,0.456
+ C,0,88743,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,87543,88743,280
+ MY,0,87543,88743,-640,400
+ F,0,88743,,1,0
+ S,0,88743,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,87888,89088,440
+ MY,0,87888,89088,-640,400
+ F,0,89088,,1,0
+ S,0,89088,,0.456
+ C,0,89088,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,87888,89088,440
+ MY,0,87888,89088,-640,400
+ F,0,89088,,1,0
+ S,0,89088,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,88060,89260,360
+ MY,0,88060,89260,-640,400
+ F,0,89260,,1,0
+ S,0,89260,,0.456
+ C,0,89260,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,88060,89260,360
+ MY,0,88060,89260,-640,400
+ F,0,89260,,1,0
+ S,0,89260,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,88405,89605,280
+ MY,0,88405,89605,-640,400
+ F,0,89605,,1,0
+ S,0,89605,,0.456
+ C,0,89605,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,88405,89605,280
+ MY,0,88405,89605,-640,400
+ F,0,89605,,1,0
+ S,0,89605,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,88577,89777,360
+ MY,0,88577,89777,-640,400
+ F,0,89777,,1,0
+ S,0,89777,,0.456
+ C,0,89777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,88577,89777,360
+ MY,0,88577,89777,-640,400
+ F,0,89777,,1,0
+ S,0,89777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,88922,90122,280
+ MY,0,88922,90122,-640,400
+ F,0,90122,,1,0
+ S,0,90122,,0.456
+ C,0,90122,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,88922,90122,280
+ MY,0,88922,90122,-640,400
+ F,0,90122,,1,0
+ S,0,90122,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,89095,90295,360
+ MY,0,89095,90295,-640,400
+ F,0,90295,,1,0
+ S,0,90295,,0.456
+ C,0,90295,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,89095,90295,360
+ MY,0,89095,90295,-640,400
+ F,0,90295,,1,0
+ S,0,90295,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,89439,90639,280
+ MY,0,89439,90639,-640,400
+ F,0,90639,,1,0
+ S,0,90639,,0.456
+ C,0,90639,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,89439,90639,280
+ MY,0,89439,90639,-640,400
+ F,0,90639,,1,0
+ S,0,90639,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,89612,90812,200
+ MY,0,89612,90812,-640,400
+ F,0,90812,,1,0
+ S,0,90812,,0.456
+ C,0,90812,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,89612,90812,200
+ MY,0,89612,90812,-640,400
+ F,0,90812,,1,0
+ S,0,90812,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,89957,91157,280
+ MY,0,89957,91157,-640,400
+ F,0,91157,,1,0
+ S,0,91157,,0.456
+ C,0,91157,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,89957,91157,280
+ MY,0,89957,91157,-640,400
+ F,0,91157,,1,0
+ S,0,91157,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,90301,91501,200
+ MY,0,90301,91501,-640,400
+ F,0,91501,,1,0
+ S,0,91501,,0.456
+ C,0,91501,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,90301,91501,200
+ MY,0,90301,91501,-640,400
+ F,0,91501,,1,0
+ S,0,91501,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,90646,91846,280
+ MY,0,90646,91846,-640,400
+ F,0,91846,,1,0
+ S,0,91846,,0.456
+ C,0,91846,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,90646,91846,280
+ MY,0,90646,91846,-640,400
+ F,0,91846,,1,0
+ S,0,91846,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,90819,92019,360
+ MY,0,90819,92019,-640,400
+ F,0,92019,,1,0
+ S,0,92019,,0.456
+ C,0,92019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,90819,92019,360
+ MY,0,90819,92019,-640,400
+ F,0,92019,,1,0
+ S,0,92019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,91164,92364,280
+ MY,0,91164,92364,-640,400
+ F,0,92364,,1,0
+ S,0,92364,,0.456
+ C,0,92364,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,91164,92364,280
+ MY,0,91164,92364,-640,400
+ F,0,92364,,1,0
+ S,0,92364,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,91336,92536,200
+ MY,0,91336,92536,-640,400
+ F,0,92536,,1,0
+ S,0,92536,,0.456
+ C,0,92536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,91336,92536,200
+ MY,0,91336,92536,-640,400
+ F,0,92536,,1,0
+ S,0,92536,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,91681,92881,280
+ MY,0,91681,92881,-640,400
+ F,0,92881,,1,0
+ S,0,92881,,0.456
+ C,0,92881,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,91681,92881,280
+ MY,0,91681,92881,-640,400
+ F,0,92881,,1,0
+ S,0,92881,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,91853,93053,200
+ MY,0,91853,93053,-640,400
+ F,0,93053,,1,0
+ S,0,93053,,0.456
+ C,0,93053,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,91853,93053,200
+ MY,0,91853,93053,-640,400
+ F,0,93053,,1,0
+ S,0,93053,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,92370,93570,440
+ MY,0,92370,93570,-640,400
+ F,0,93570,,1,0
+ S,0,93570,,0.456
+ C,0,93570,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,92370,93570,440
+ MY,0,92370,93570,-640,400
+ F,0,93570,,1,0
+ S,0,93570,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,92715,93915,360
+ MY,0,92715,93915,-640,400
+ F,0,93915,,1,0
+ S,0,93915,,0.456
+ C,0,93915,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,92715,93915,360
+ MY,0,92715,93915,-640,400
+ F,0,93915,,1,0
+ S,0,93915,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,93060,94260,440
+ MY,0,93060,94260,-640,400
+ F,0,94260,,1,0
+ S,0,94260,,0.456
+ C,0,94260,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,93060,94260,440
+ MY,0,93060,94260,-640,400
+ F,0,94260,,1,0
+ S,0,94260,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,93405,94605,200
+ MY,0,93405,94605,-640,400
+ F,0,94605,,1,0
+ S,0,94605,,0.456
+ C,0,94605,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,93405,94605,200
+ MY,0,93405,94605,-640,400
+ F,0,94605,,1,0
+ S,0,94605,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,93577,94777,280
+ MY,0,93577,94777,-640,400
+ F,0,94777,,1,0
+ S,0,94777,,0.456
+ C,0,94777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,93577,94777,280
+ MY,0,93577,94777,-640,400
+ F,0,94777,,1,0
+ S,0,94777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,93922,95122,360
+ MY,0,93922,95122,-640,400
+ F,0,95122,,1,0
+ S,0,95122,,0.456
+ C,0,95122,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,93922,95122,360
+ MY,0,93922,95122,-640,400
+ F,0,95122,,1,0
+ S,0,95122,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,94095,95295,440
+ MY,0,94095,95295,-640,400
+ F,0,95295,,1,0
+ S,0,95295,,0.456
+ C,0,95295,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,94095,95295,440
+ MY,0,94095,95295,-640,400
+ F,0,95295,,1,0
+ S,0,95295,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,94439,95639,200
+ MY,0,94439,95639,-640,400
+ F,0,95639,,1,0
+ S,0,95639,,0.456
+ C,0,95639,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,94439,95639,200
+ MY,0,94439,95639,-640,400
+ F,0,95639,,1,0
+ S,0,95639,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,94612,95812,280
+ MY,0,94612,95812,-640,400
+ F,0,95812,,1,0
+ S,0,95812,,0.456
+ C,0,95812,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,94612,95812,280
+ MY,0,94612,95812,-640,400
+ F,0,95812,,1,0
+ S,0,95812,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,95129,96329,200
+ MY,0,95129,96329,-640,400
+ F,0,96329,,1,0
+ S,0,96329,,0.456
+ C,0,96329,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,95129,96329,200
+ MY,0,95129,96329,-640,400
+ F,0,96329,,1,0
+ S,0,96329,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,95474,96674,280
+ MY,0,95474,96674,-640,400
+ F,0,96674,,1,0
+ S,0,96674,,0.456
+ C,0,96674,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,95474,96674,280
+ MY,0,95474,96674,-640,400
+ F,0,96674,,1,0
+ S,0,96674,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,95819,97019,360
+ MY,0,95819,97019,-640,400
+ F,0,97019,,1,0
+ S,0,97019,,0.456
+ C,0,97019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,95819,97019,360
+ MY,0,95819,97019,-640,400
+ F,0,97019,,1,0
+ S,0,97019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,95819,97019,280
+ MY,0,95819,97019,-640,400
+ F,0,97019,,1,0
+ S,0,97019,,0.456
+ C,0,97019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,95819,97019,280
+ MY,0,95819,97019,-640,400
+ F,0,97019,,1,0
+ S,0,97019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,95991,97191,280
+ MY,0,95991,97191,-640,400
+ F,0,97191,,1,0
+ S,0,97191,,0.456
+ C,0,97191,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,95991,97191,280
+ MY,0,95991,97191,-640,400
+ F,0,97191,,1,0
+ S,0,97191,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,96164,97364,360
+ MY,0,96164,97364,-640,400
+ F,0,97364,,1,0
+ S,0,97364,,0.456
+ C,0,97364,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,96164,97364,360
+ MY,0,96164,97364,-640,400
+ F,0,97364,,1,0
+ S,0,97364,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,96508,97708,440
+ MY,0,96508,97708,-640,400
+ F,0,97708,,1,0
+ S,0,97708,,0.456
+ C,0,97708,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,96508,97708,440
+ MY,0,96508,97708,-640,400
+ F,0,97708,,1,0
+ S,0,97708,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,96853,98053,360
+ MY,0,96853,98053,-640,400
+ F,0,98053,,1,0
+ S,0,98053,,0.456
+ C,0,98053,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,96853,98053,360
+ MY,0,96853,98053,-640,400
+ F,0,98053,,1,0
+ S,0,98053,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,97198,98398,280
+ MY,0,97198,98398,-640,400
+ F,0,98398,,1,0
+ S,0,98398,,0.456
+ C,0,98398,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,97198,98398,280
+ MY,0,97198,98398,-640,400
+ F,0,98398,,1,0
+ S,0,98398,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,97370,98570,360
+ MY,0,97370,98570,-640,400
+ F,0,98570,,1,0
+ S,0,98570,,0.456
+ C,0,98570,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,97370,98570,360
+ MY,0,97370,98570,-640,400
+ F,0,98570,,1,0
+ S,0,98570,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,97543,98743,440
+ MY,0,97543,98743,-640,400
+ F,0,98743,,1,0
+ S,0,98743,,0.456
+ C,0,98743,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,97543,98743,440
+ MY,0,97543,98743,-640,400
+ F,0,98743,,1,0
+ S,0,98743,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,97715,98915,200
+ MY,0,97715,98915,-640,400
+ F,0,98915,,1,0
+ S,0,98915,,0.456
+ C,0,98915,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,97715,98915,200
+ MY,0,97715,98915,-640,400
+ F,0,98915,,1,0
+ S,0,98915,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,97888,99088,280
+ MY,0,97888,99088,-640,400
+ F,0,99088,,1,0
+ S,0,99088,,0.456
+ C,0,99088,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,97888,99088,280
+ MY,0,97888,99088,-640,400
+ F,0,99088,,1,0
+ S,0,99088,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,98060,99260,360
+ MY,0,98060,99260,-640,400
+ F,0,99260,,1,0
+ S,0,99260,,0.456
+ C,0,99260,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,98060,99260,360
+ MY,0,98060,99260,-640,400
+ F,0,99260,,1,0
+ S,0,99260,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,98233,99433,280
+ MY,0,98233,99433,-640,400
+ F,0,99433,,1,0
+ S,0,99433,,0.456
+ C,0,99433,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,98233,99433,280
+ MY,0,98233,99433,-640,400
+ F,0,99433,,1,0
+ S,0,99433,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,98577,99777,360
+ MY,0,98577,99777,-640,400
+ F,0,99777,,1,0
+ S,0,99777,,0.456
+ C,0,99777,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,98577,99777,360
+ MY,0,98577,99777,-640,400
+ F,0,99777,,1,0
+ S,0,99777,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,98750,99950,280
+ MY,0,98750,99950,-640,400
+ F,0,99950,,1,0
+ S,0,99950,,0.456
+ C,0,99950,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,98750,99950,280
+ MY,0,98750,99950,-640,400
+ F,0,99950,,1,0
+ S,0,99950,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,98922,100122,360
+ MY,0,98922,100122,-640,400
+ F,0,100122,,1,0
+ S,0,100122,,0.456
+ C,0,100122,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,98922,100122,360
+ MY,0,98922,100122,-640,400
+ F,0,100122,,1,0
+ S,0,100122,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,99267,100467,440
+ MY,0,99267,100467,-640,400
+ F,0,100467,,1,0
+ S,0,100467,,0.456
+ C,0,100467,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,99267,100467,440
+ MY,0,99267,100467,-640,400
+ F,0,100467,,1,0
+ S,0,100467,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,99612,100812,360
+ MY,0,99612,100812,-640,400
+ F,0,100812,,1,0
+ S,0,100812,,0.456
+ C,0,100812,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,99612,100812,360
+ MY,0,99612,100812,-640,400
+ F,0,100812,,1,0
+ S,0,100812,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,99957,101157,280
+ MY,0,99957,101157,-640,400
+ F,0,101157,,1,0
+ S,0,101157,,0.456
+ C,0,101157,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,99957,101157,280
+ MY,0,99957,101157,-640,400
+ F,0,101157,,1,0
+ S,0,101157,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100043,101243,360
+ MY,0,100043,101243,-640,400
+ F,0,101243,,1,0
+ S,0,101243,,0.456
+ C,0,101243,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100043,101243,360
+ MY,0,100043,101243,-640,400
+ F,0,101243,,1,0
+ S,0,101243,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100129,101329,280
+ MY,0,100129,101329,-640,400
+ F,0,101329,,1,0
+ S,0,101329,,0.456
+ C,0,101329,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100129,101329,280
+ MY,0,100129,101329,-640,400
+ F,0,101329,,1,0
+ S,0,101329,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100215,101415,360
+ MY,0,100215,101415,-640,400
+ F,0,101415,,1,0
+ S,0,101415,,0.456
+ C,0,101415,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100215,101415,360
+ MY,0,100215,101415,-640,400
+ F,0,101415,,1,0
+ S,0,101415,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100301,101501,440
+ MY,0,100301,101501,-640,400
+ F,0,101501,,1,0
+ S,0,101501,,0.456
+ C,0,101501,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100301,101501,440
+ MY,0,100301,101501,-640,400
+ F,0,101501,,1,0
+ S,0,101501,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100388,101588,360
+ MY,0,100388,101588,-640,400
+ F,0,101588,,1,0
+ S,0,101588,,0.456
+ C,0,101588,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100388,101588,360
+ MY,0,100388,101588,-640,400
+ F,0,101588,,1,0
+ S,0,101588,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100474,101674,440
+ MY,0,100474,101674,-640,400
+ F,0,101674,,1,0
+ S,0,101674,,0.456
+ C,0,101674,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100474,101674,440
+ MY,0,100474,101674,-640,400
+ F,0,101674,,1,0
+ S,0,101674,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100560,101760,200
+ MY,0,100560,101760,-640,400
+ F,0,101760,,1,0
+ S,0,101760,,0.456
+ C,0,101760,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100560,101760,200
+ MY,0,100560,101760,-640,400
+ F,0,101760,,1,0
+ S,0,101760,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100646,101846,440
+ MY,0,100646,101846,-640,400
+ F,0,101846,,1,0
+ S,0,101846,,0.456
+ C,0,101846,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100646,101846,440
+ MY,0,100646,101846,-640,400
+ F,0,101846,,1,0
+ S,0,101846,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100819,102019,360
+ MY,0,100819,102019,-640,400
+ F,0,102019,,1,0
+ S,0,102019,,0.456
+ C,0,102019,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100819,102019,360
+ MY,0,100819,102019,-640,400
+ F,0,102019,,1,0
+ S,0,102019,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,100991,102191,440
+ MY,0,100991,102191,-640,400
+ F,0,102191,,1,0
+ S,0,102191,,0.456
+ C,0,102191,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,100991,102191,440
+ MY,0,100991,102191,-640,400
+ F,0,102191,,1,0
+ S,0,102191,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,101336,102536,360
+ MY,0,101336,102536,-640,400
+ F,0,102536,,1,0
+ S,0,102536,,0.456
+ C,0,102536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,101336,102536,360
+ MY,0,101336,102536,-640,400
+ F,0,102536,,1,0
+ S,0,102536,,0.456
+Sprite,Foreground,Centre,"SB\taikohitcircle.png",0,197
+ MX,0,101336,102536,280
+ MY,0,101336,102536,-640,400
+ F,0,102536,,1,0
+ S,0,102536,,0.456
+ C,0,102536,,235,69,44
+Sprite,Foreground,Centre,"SB\taikohitcircleoverlay.png",0,197
+ MX,0,101336,102536,280
+ MY,0,101336,102536,-640,400
+ F,0,102536,,1,0
+ S,0,102536,,0.456

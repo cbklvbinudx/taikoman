@@ -1,0 +1,16 @@
+﻿<Window x:Class="taikoman.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:taikoman"
+        mc:Ignorable="d"
+        Title="taikoman" Height="400" Width="640"
+        ResizeMode="NoResize" Visibility="Visible" Icon="1609488676430.jpg">
+    <Grid Background="#20202f">
+        <Button Click="GenerateButton_Click" Height="40" Margin="240,0,0,160" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="150">Generate</Button>
+        <Button Click="FileSelector_Click" Height="40" Width="150" Margin="240,0,0,90" HorizontalAlignment="Left" VerticalAlignment="Bottom">Choose a .osu file</Button>
+        <TextBlock Name="FunnyText" TextAlignment="Center" TextTrimming="None" TextWrapping="Wrap" Text="Currently selected map: " Height="70" Width="634" Margin="0,0,0,291" VerticalAlignment="Bottom" HorizontalAlignment="Left" FontSize="12"></TextBlock>
+        <CheckBox Name="DTCheckBox" Height="40" Width="180" Margin="444,85,0,246" HorizontalAlignment="Left" BorderBrush="Black">DT Approach Rate</CheckBox>
+    </Grid>
+</Window>
